@@ -1,4 +1,4 @@
-__author__ = 'Elian Ganteng'
+__author__ = 'Elian Daiva'
 
 from kivy.app import App
 from kivy.uix.screenmanager import Screen
