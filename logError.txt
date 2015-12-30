@@ -1,0 +1,253 @@
+botstrapping Kivy @ C:\Kivy\
+Setting Environment Variables:
+#################################
+GST_REGISTRY
+C:\Kivy\gstreamer\registry.bin
+---------------
+GST_PLUGIN_PATH:
+C:\Kivy\gstreamer\lib\gstreamer-1.0
+---------------
+PATH:
+C:\Kivy\;C:\Kivy\Python27;C:\Kivy\tools;C:\Kivy\Python27\Scripts;C:\Kivy\gstream
+er\bin;C:\Kivy\MinGW\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Fi
+les\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:
+\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\Window
+sPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program
+ Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\Intel(R) Manage
+ment Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Com
+ponents\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\D
+AL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Pro
+gramData\Lenovo\ReadyApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Comm
+on Files\Intel\WirelessCommon\;C:\Program Files\Microsoft SQL Server\110\Tools\B
+inn\;C:\Python27;C:\Python27\Scripts;C:\Kivy\Python27;C:\Kivy\Python27\Scripts;C
+:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\
+Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windo
+ws;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Progr
+am Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL
+SDK\3.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Fil
+es (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\
+Intel\Intel(R) Management Engine Components\IPT;C:\ProgramData\Lenovo\ReadyApps;
+C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCom
+mon\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Python27;C:\Python
+27\Scripts;C:\Kivy\Python27;C:\Kivy\Python27\Scripts
+----------------------------------
+PYTHONPATH:
+C:\Kivy\kivy;
+----------------------------------
+##################################
+done bootstraping kivy...have fun!\n
+running "python.exe "C:\SmartCity\SmartCityApp 14122014\main.py"" \n
+[INFO              ] Kivy v1.8.0
+[INFO              ] [Logger      ] Record log in C:\Users\labtek\.kivy\logs\kiv
+y_14-12-14_67.txt
+[INFO              ] [Factory     ] 157 symbols loaded
+[DEBUG             ] [Cache       ] register <kv.image> with limit=None, timeout
+=60s
+[DEBUG             ] [Cache       ] register <kv.atlas> with limit=None, timeout
+=Nones
+[INFO              ] [Image       ] Providers: img_tex, img_dds, img_pygame, img
+_gif (img_pil ignored)
+[DEBUG             ] [Cache       ] register <kv.texture> with limit=1000, timeo
+ut=60s
+[DEBUG             ] [Cache       ] register <kv.shader> with limit=1000, timeou
+t=3600s
+[DEBUG             ] [Cache       ] register <kv.lang> with limit=None, timeout=
+Nones
+[DEBUG             ] [Window      ] Ignored <egl_rpi> (import error)
+[INFO              ] [Window      ] Provider: pygame(['window_egl_rpi'] ignored)
+
+[DEBUG             ] [Window      ] Display driver windib
+[DEBUG             ] [Window      ] Actual window size: 800x600
+[DEBUG             ] [Window      ] Actual color bits r8 g8 b8 a0
+[DEBUG             ] [Window      ] Actual depth bits: 24
+[DEBUG             ] [Window      ] Actual stencil bits: 8
+[DEBUG             ] [Window      ] Actual multisampling samples: 2
+GLEW initialization succeeded
+[INFO              ] [GL          ] OpenGL version <4.3.0>
+[INFO              ] [GL          ] OpenGL vendor <NVIDIA Corporation>
+[INFO              ] [GL          ] OpenGL renderer <GeForce GT 720A/PCIe/SSE2>
+[INFO              ] [GL          ] OpenGL parsed version: 4, 3
+[INFO              ] [GL          ] Shading version <4.30 NVIDIA via Cg compiler
+>
+[INFO              ] [GL          ] Texture max size <16384>
+[INFO              ] [GL          ] Texture max units <32>
+[DEBUG             ] [Shader      ] Fragment compiled successfully
+[DEBUG             ] [Shader      ] Vertex compiled successfully
+[DEBUG             ] [ImagePygame ] Load <C:\Kivy\kivy\kivy\data\glsl\default.pn
+g>
+[INFO              ] [Window      ] virtual keyboard not allowed, single mode, n
+ot docked
+[DEBUG             ] [Cache       ] register <kv.loader> with limit=500, timeout
+=60s
+[INFO              ] [Loader      ] using a thread pool of 2 workers
+[INFO              ] [Text        ] Provider: pygame
+[DEBUG             ] [App         ] Loading kv <C:\SmartCity\SmartCityApp 141220
+14\smartcity.kv>
+[DEBUG             ] [App         ] kv <C:\SmartCity\SmartCityApp 14122014\smart
+city.kv> not found
+[DEBUG             ] [ImagePygame ] Load <lib/bg.jpg>
+[INFO              ] [GL          ] NPOT texture support is available
+[DEBUG             ] [ImagePygame ] Load <lib/title-&-logo.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/1.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/2.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/3.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/4.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/5.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/6.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/7.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/8.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/9.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014\ebo
+oksRumahKita\AirTanah\0c.jpg>
+[INFO              ] [OSC         ] using <thread> for socket
+[DEBUG             ] [Base        ] Create provider from mouse
+[DEBUG             ] [Base        ] Create provider from wm_touch
+[DEBUG             ] [Base        ] Create provider from wm_pen
+[INFO              ] [Base        ] Start application main loop
+[DEBUG             ] [ImageGIF    ] Load <C:\Kivy\kivy\kivy\data\images\image-lo
+ading.gif>
+[DEBUG             ] [WinPygame   ] Set window to fullscreen mode
+[DEBUG             ] [Window      ] Display driver windib
+[DEBUG             ] [Window      ] Actual window size: 1920x1080
+[DEBUG             ] [Window      ] Actual color bits r8 g8 b8 a0
+[DEBUG             ] [Window      ] Actual depth bits: 24
+[DEBUG             ] [Window      ] Actual stencil bits: 8
+[DEBUG             ] [Window      ] Actual multisampling samples: 2
+[INFO              ] [Context     ] Reloading graphics data...
+[DEBUG             ] [Context     ] Collect and flush all garbage
+[DEBUG             ] [Context     ] Reload textures
+[DEBUG             ] [ImagePygame ] Load <C:\Kivy\kivy\kivy\data\glsl\default.pn
+g>
+[DEBUG             ] [ImagePygame ] Load <lib/bg.jpg>
+[DEBUG             ] [ImagePygame ] Load <lib/title-&-logo.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/1.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/2.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/3.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/4.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/5.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/6.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/7.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/8.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014/Pho
+tos/9.jpg>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014\ebo
+oksRumahKita\AirTanah\0c.jpg>
+[DEBUG             ] [ImageGIF    ] Load <C:\Kivy\kivy\kivy\data\images\image-lo
+ading.gif>
+[DEBUG             ] [Context     ] Reload vbos
+[DEBUG             ] [Context     ] Reload vertex batchs
+[DEBUG             ] [Context     ] Reload shaders
+[DEBUG             ] [Shader      ] Fragment compiled successfully
+[DEBUG             ] [Shader      ] Vertex compiled successfully
+[DEBUG             ] [Context     ] Reload canvas
+[INFO              ] [Context     ] Reloading done in 0.6820s
+[DEBUG             ] [ImagePygame ] Load <lib/filter loker.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn e-kelurahan.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn info bdg.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter bg normal.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn tampilkan semua.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter ketertiban slct.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter persib.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter info lain slct.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn menu-utama.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter pembangunan.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn sadang serang.png>
+[DEBUG             ] [Atlas       ] Load <C:\Kivy\kivy\kivy\data\..\data\images\
+defaulttheme.atlas>
+[DEBUG             ] [Atlas       ] Need to load 1 images
+[DEBUG             ] [Atlas       ] Load <C:\Kivy\kivy\kivy\data\..\data\images\
+defaulttheme-0.png>
+[DEBUG             ] [ImagePygame ] Load <C:\Kivy\kivy\kivy\data\..\data\images\
+defaulttheme-0.png>
+[DEBUG             ] [ImagePygame ] Load <arrows/scroll-right.png>
+[DEBUG             ] [ImagePygame ] Load <lib/btn rumah kita.png>
+[DEBUG             ] [ImagePygame ] Load <arrows/scroll-left.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter pemkot.png>
+[DEBUG             ] [ImagePygame ] Load <assets-rumah-kita\scroll-left.png>
+[DEBUG             ] [ImagePygame ] Load <lib/filter sadang serang.png>
+[DEBUG             ] [ImagePygame ] Load <assets-rumah-kita\scroll-right.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014\ebo
+oksRumahKita\Hidroponik\1.jpg>
+[DEBUG             ] [ImagePygame ] Load <assets-rumah-kita\Close-exit-new.png>
+[DEBUG             ] [ImagePygame ] Load <C:\SmartCity\SmartCityApp 14122014\ebo
+oksRumahKita\KampungBerkebun\1.jpg>
+[DEBUG             ] [ImagePygame ] Load <lib/btn sadang serang down.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderb3j2fr.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderul6as1.jpeg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderkva5js.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloader3caggt.jpg>
+[DEBUG             ] [Shader      ] Fragment compiled successfully
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderrl75d3.jpg>
+ C:\Kivy\kivy\kivy\core\text\__init__.py:479: UnicodeWarning: Unicode unequal co
+mparison failed to convert both arguments to Unicode - interpreting them as bein
+g unequal
+   if text != self._text:
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderjnnjjw.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloadervm_kxb.jpg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderw389xv.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderhul5c_.jpg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloader7lgvz6.jpg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderxkj5c0.jpg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderddbjxm.jpeg>
+[DEBUG             ] [ImagePygame ] Load <lib/btn menu-utama-down.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderrrvk7r.jpg>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderhzshp3.png>
+[DEBUG             ] [ImagePygame ] Load <c:\users\labtek\appdata\local\temp\kiv
+yloaderte7zhv.jpg>
+[INFO              ] [Base        ] Leaving application in progress...
+ Traceback (most recent call last):
+   File "C:\SmartCity\SmartCityApp 14122014\main.py", line 737, in <module>
+     SmartCityApp().run()
+   File "C:\Kivy\kivy\kivy\app.py", line 792, in run
+     runTouchApp()
+   File "C:\Kivy\kivy\kivy\base.py", line 481, in runTouchApp
+     EventLoop.window.mainloop()
+   File "C:\Kivy\kivy\kivy\core\window\window_pygame.py", line 381, in mainloop
+     self._mainloop()
+   File "C:\Kivy\kivy\kivy\core\window\window_pygame.py", line 287, in _mainloop
+
+     EventLoop.idle()
+   File "C:\Kivy\kivy\kivy\base.py", line 321, in idle
+     Clock.tick()
+   File "C:\Kivy\kivy\kivy\clock.py", line 422, in tick
+     self._process_events()
+   File "C:\Kivy\kivy\kivy\clock.py", line 537, in _process_events
+     if event.tick(self._last_tick) is False:
+   File "C:\Kivy\kivy\kivy\clock.py", line 309, in tick
+     ret = callback(self._dt)
+   File "C:\Kivy\kivy\kivy\animation.py", line 318, in _update
+     setattr(widget, key, value)
+ ReferenceError: weakly-referenced object no longer exists
+Press any key to continue . . .

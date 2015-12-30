@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Sadang"
+			],
+			[
+				"In",
+				"Interaktif"
+			],
+			[
+				"on",
+				"on_press"
+			],
+			[
+				"btn",
+				"btn_bg"
+			],
+			[
+				"scre",
+				"screen_width"
+			],
+			[
+				"albu",
+				"albumList"
+			],
+			[
+				"al",
+				"albumList"
+			],
+			[
+				"ph",
+				"phIdx"
+			],
+			[
+				"page",
+				"pages"
+			],
+			[
+				"pho",
+				"photo_container"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"phot",
+				"photo_container"
+			],
+			[
+				"Thum",
+				"Thumbnail_View"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"album",
+				"albumView"
+			],
+			[
+				"alb",
+				"albumView"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"op",
+				"open"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"T",
+				"Thumbnail_Btn"
+			],
+			[
+				"info",
+				"InfoPerkembanganRumah"
+			],
+			[
+				"legend",
+				"legendBatasWil"
+			],
+			[
+				"le",
+				"legendContainer"
+			],
+			[
+				"l",
+				"legendContainer"
+			],
+			[
+				"ma",
+				"mainContainer"
+			],
+			[
+				"data",
+				"dataUmur"
+			],
+			[
+				"BUt",
+				"Button"
+			],
+			[
+				"da",
+				"dataPendidikanButton"
+			],
+			[
+				"si",
+				"size_hint"
+			],
+			[
+				"Map",
+				"MapLayout"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"main",
+				"mainSSI"
+			],
+			[
+				"add",
+				"add_widget"
+			],
+			[
+				"Main",
+				"MainScreenAndButton"
+			],
+			[
+				"on_re",
+				"on_ref_press"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"par",
+				"parseName"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"I",
+				"Image"
+			],
+			[
+				"get",
+				"get_exif_data"
+			],
+			[
+				"bac",
+				"background_down"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"inf",
+				"info-perkembangan-button"
+			],
+			[
+				"as",
+				"assets-rumah-kita"
+			],
+			[
+				"ruma",
+				"rumahKita"
+			],
+			[
+				"load",
+				"load_file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 4159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "info_bdg/info_bdg.py",
+			"settings":
+			{
+				"buffer_size": 12525,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rumah_kita/info_perkembangan_rumah.py",
+			"settings":
+			{
+				"buffer_size": 4096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rumah_kita/widgets.py",
+			"settings":
+			{
+				"buffer_size": 4603,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.kv",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "menu_utama/menu_utama.py",
+			"settings":
+			{
+				"buffer_size": 8991,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rumah_kita/style.kv",
+			"settings":
+			{
+				"buffer_size": 4743,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/info_bdg",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/rumah_kita"
+	],
+	"file_history":
+	[
+		"/C/Kivy/kivy/kivy/animation.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/data/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/peta/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/rumah_kita/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/app.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-21/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_bdg/filter.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/rumah_kita/widgets.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/rumah_kita/info_perkembangan_rumah.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/peta/peta.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_bdg/utils.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_bdg/tweet_fetcher.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_bdg/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_bdg/info_bdg.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/data/data.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/menu_utama/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_tematik/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/data/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_perkembangan_rumah/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/peta/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/menu_utama/menu_utama.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/app.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/info_perkembangan_rumah/info_perkembangan_rumah_backup.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/info_perkembangan_rumah/info_perkembangan_rumah.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-09/info_perkembangan_rumah/info_perkembangan_rumah.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/info_tematik/info_tematik.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/info_perkembangan_rumah/info_perkembangan_rumah_test.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/logger.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/app.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/peta/peta.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/info_perkembangan_rumah/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-07/peta/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/RumahKitaApp/imageGallery.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/info_perkembangan_rumah/info_perkembangan_rumah.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/info_perkembangan_rumah/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/app.kv",
+		"/C/Users/labtek/Dropbox/Smart City/RumahKitaApp/backup_info_perkembangan_rumah.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/peta/peta.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/info_tematik/info_tematik.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/slideshow.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/peta/style.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/logger.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/gv.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/menu_utama/menu_utama.py",
+		"/C/Users/labtek/Dropbox/Smart City/MapApp/SPM2/mapv4.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/data/data.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/info_bdg/info_bdg.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-1-3/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-1-3/mapv3.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2015-01-04/peta/__init__.py",
+		"/C/Users/labtek/Dropbox/Smart City/MapApp/SPM2/mapv3.py",
+		"/C/SmartCity/SmartCityApp 2014-12-15/menu_utama.kv",
+		"/C/SmartCity/SmartCityApp 2014-12-15/slideshow.kv",
+		"/C/SmartCity/SmartCityApp 2014-12-15/app.kv",
+		"/C/SmartCity/SmartCityApp 2014-12-15/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/MapApp/SPM2/main.py",
+		"/C/SmartCity/SmartCityApp 2014-12-15/info_bdg.kv",
+		"/C/SmartCity/SmartCityApp 2014-12-15/rumah-kita.kv",
+		"/C/SmartCity/SmartCityApp 2014-12-15/mapv3.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/main.py___jb_bak___",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/menu_utama.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/app.kv",
+		"/E/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/web_browser.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp 2014-12-15/rumahKita.kv",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp/.suble45.tmp",
+		"/C/SmartCity/SmartCityApp 14122014/app.kv",
+		"/C/SmartCity/SmartCityApp 14122014/logError.txt",
+		"/C/SmartCity/SmartCityApp 14122014/rumahKita.kv",
+		"/C/SmartCity/SmartCityApp 14122014/slideshow.kv",
+		"/C/SmartCity/SmartCityApp 14122014/pdfGallery.kv",
+		"/C/SmartCity/SmartCityApp 14122014/main.py",
+		"/C/Users/labtek/Dropbox/Smart City/SmartCityApp/main (Sadang Serang's conflicted copy 2014-12-14).py",
+		"/C/SmartCity/RumahKitaApp/pdfGallery.py",
+		"/C/SmartCity/SmartCityApp 14122014/Smart City 14122014.lnk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\SmartCity\\SmartCityApp 14122014\\PhotosRumahKita"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animation",
+			"add_tweet",
+			"add_twee",
+			"add_twe",
+			"add_tweet",
+			"animDur",
+			"add_tw",
+			"byteify",
+			"reset",
+			"_home_",
+			"albumList",
+			"full_size_viewer",
+			"paren",
+			"contain",
+			"style",
+			"crnt_book",
+			"topbar",
+			"reset",
+			"container",
+			"Rumah Kita",
+			"name",
+			"Sadang Serang Interaktif",
+			"MapLayout",
+			"btn_menu_utama_cont",
+			"TopBar",
+			"topbar",
+			"fake",
+			"frien",
+			"friendly",
+			"isPopup",
+			"fetch",
+			"friendly_time",
+			"self.filename",
+			"full ",
+			"self.popup",
+			"DSC",
+			"<",
+			"<db",
+			"photo_li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4159,
+								4159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "info_bdg/info_bdg.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10482,
+								10482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rumah_kita/info_perkembangan_rumah.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3356,
+								3356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rumah_kita/widgets.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "menu_utama/menu_utama.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2278,
+								2278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rumah_kita/style.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2648,
+								2648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

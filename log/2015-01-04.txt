@@ -1,0 +1,750 @@
+
+as 01:16:49 ---- APP STARTED ---
+
+as 01:17:27 ---- APP STARTED ---
+
+as 01:18:01 ---- APP STARTED ---
+
+as 01:19:11 ---- APP STARTED ---
+
+as 01:20:56 ---- APP STARTED ---
+
+as 01:22:49 ---- APP STARTED ---
+
+as 01:23:35 ---- APP STARTED ---
+
+as 01:23:48 ---- APP STARTED ---
+
+as 01:25:29 ---- APP STARTED ---
+
+as 01:26:46 ---- APP STARTED ---
+
+as 01:28:44 ---- APP STARTED ---
+
+as 01:29:45 ---- APP STARTED ---
+
+as 01:32:22 ---- APP STARTED ---
+
+as 01:32:44 ---- APP STARTED ---
+
+as 01:33:43 ---- APP STARTED ---
+
+as 01:35:10 ---- APP STARTED ---
+
+as 01:40:55 ---- APP STARTED ---
+
+as 01:41:52 ---- APP STARTED ---
+.. 01:42:00      .
+
+as 01:42:35 ---- APP STARTED ---
+
+as 01:43:10 ---- APP STARTED ---
+.. 01:43:17      .
+
+as 01:44:35 ---- APP STARTED ---
+
+as 01:45:09 ---- APP STARTED ---
+
+as 01:45:58 ---- APP STARTED ---
+
+as 01:47:28 ---- APP STARTED ---
+
+as 01:47:53 ---- APP STARTED ---
+
+as 01:48:03 ---- APP STARTED ---
+
+as 01:48:35 ---- APP STARTED ---
+
+as 01:49:29 ---- APP STARTED ---
+
+as 01:49:40 ---- APP STARTED ---
+
+as 01:50:00 ---- APP STARTED ---
+
+as 01:51:15 ---- APP STARTED ---
+
+as 01:51:38 ---- APP STARTED ---
+
+as 01:53:34 ---- APP STARTED ---
+
+as 01:54:00 ---- APP STARTED ---
+.. 01:54:08      .
+
+as 01:55:29 ---- APP STARTED ---
+
+as 01:55:53 ---- APP STARTED ---
+.. 01:56:00      .
+
+as 01:56:44 ---- APP STARTED ---
+
+as 01:58:38 ---- APP STARTED ---
+td 01:58:44      touched on (515.0, 169.99999999999997)
+tu 01:58:44      -> up after 0.332 s on (504.99999999999994, 107.00000000000001)
+bp 01:58:44      pressed Sadang Serang Interaktif
+td 01:58:44      touched on (473.0, 162.99999999999997)
+tu 01:58:45      -> up after 0.357 s on (460.0, 219.0)
+td 01:58:45      touched on (452.0, 209.99999999999997)
+.. 01:58:45      .
+bp 01:58:45      pressed Info Ngabandungan
+
+as 01:59:03 ---- APP STARTED ---
+td 01:59:05      touched on (557.0, 421.0)
+td 01:59:06      touched on (365.0, 420.0)
+td 01:59:07      touched on (174.0, 189.0)
+bp 01:59:07      pressed e-Kelurahan
+td 01:59:08      touched on (444.0, 193.0)
+bp 01:59:09      pressed Info Ngabandungan
+
+as 01:59:38 ---- APP STARTED ---
+.. 01:59:45      .
+
+as 01:59:58 ---- APP STARTED ---
+
+as 02:04:46 ---- APP STARTED ---
+
+as 02:05:05 ---- APP STARTED ---
+
+as 02:05:46 ---- APP STARTED ---
+
+as 02:06:29 ---- APP STARTED ---
+
+as 02:07:09 ---- APP STARTED ---
+
+as 02:07:34 ---- APP STARTED ---
+
+as 02:08:03 ---- APP STARTED ---
+
+as 02:08:31 ---- APP STARTED ---
+
+as 02:10:29 ---- APP STARTED ---
+
+as 02:11:39 ---- APP STARTED ---
+
+as 02:12:15 ---- APP STARTED ---
+
+as 02:13:48 ---- APP STARTED ---
+td 02:13:50      touched on (619.0, 154.0)
+bp 02:13:50      pressed Sadang Serang Interaktif
+td 02:13:55      touched on (542.0, 31.999999999999986)
+.. 02:13:55      .
+td 02:13:58      touched on (605.0, 139.0)
+bp 02:13:58      pressed Sadang Serang Interaktif
+td 02:13:59      touched on (550.0, 26.000000000000007)
+td 02:14:02      touched on (792.0, 132.0)
+bp 02:14:02      pressed Rumah Kita
+td 02:14:03      touched on (695.0, 38.00000000000003)
+.. 02:14:05      .
+
+as 02:14:54 ---- APP STARTED ---
+td 02:14:57      touched on (615.0, 157.0)
+bp 02:14:57      pressed Sadang Serang Interaktif
+td 02:14:58      touched on (661.0, 59.00000000000001)
+td 02:14:59      touched on (829.0, 167.0)
+bp 02:14:59      pressed Rumah Kita
+td 02:15:00      touched on (714.0, 41.99999999999997)
+td 02:15:02      touched on (615.0, 154.0)
+bp 02:15:02      pressed Sadang Serang Interaktif
+.. 02:15:02      .
+td 02:15:06      touched on (613.0, 34.99999999999998)
+
+as 02:15:50 ---- APP STARTED ---
+
+as 02:19:00 ---- APP STARTED ---
+
+as 02:19:25 ---- APP STARTED ---
+
+sc 02:19:25 -- Menu Utama --
+td 02:19:28      touched on (595.0, 133.00000000000003)
+bp 02:19:28      pressed Sadang Serang Interaktif
+td 02:19:29      touched on (508.99999999999994, 327.00000000000006)
+bp 02:19:30      pressed Peta
+td 02:19:31      touched on (729.0, 526.0)
+
+as 02:23:16 ---- APP STARTED ---
+
+as 02:26:52 ---- APP STARTED ---
+
+as 02:27:24 ---- APP STARTED ---
+
+as 02:27:47 ---- APP STARTED ---
+
+as 02:28:36 ---- APP STARTED ---
+
+as 02:29:04 ---- APP STARTED ---
+
+sc 02:29:04 -- Menu Utama --
+.. 02:29:11      .
+td 02:29:16      touched on (627.0, 165.0)
+bp 02:29:16      pressed Sadang Serang Interaktif
+td 02:29:20      touched on (520.0, 342.0)
+bp 02:29:20      pressed Peta
+
+sc 02:29:20 -- Peta --
+td 02:29:21      touched on (739.0, 512.0)
+
+as 02:30:47 ---- APP STARTED ---
+
+sc 02:30:48 -- Menu Utama --
+td 02:30:50      touched on (613.0, 158.00000000000003)
+bp 02:30:50      pressed Sadang Serang Interaktif
+td 02:30:52      touched on (682.0, 331.0)
+bp 02:30:52      pressed Data
+
+sc 02:30:52 -- Data --
+td 02:30:53      touched on (766.0, 518.0)
+.. 02:30:55      .
+td 02:30:56      touched on (733.0, 507.0)
+
+as 02:33:43 ---- APP STARTED ---
+
+sc 02:33:43 -- Menu Utama --
+td 02:33:46      touched on (772.0, 168.0)
+bp 02:33:46      pressed Rumah Kita
+td 02:33:47      touched on (800.0, 355.0)
+bp 02:33:47      pressed Info Perkembangan Rumah
+
+sc 02:33:47 -- Info Perkembangan Rumah --
+td 02:33:48      touched on (787.0, 515.0)
+bp 02:33:48      pressed Menu Utama
+
+sc 02:33:48 -- Menu Utama --
+.. 02:33:50      .
+
+as 02:35:44 ---- APP STARTED ---
+
+as 02:36:03 ---- APP STARTED ---
+td 02:36:04      touched on (443.0, 449.0)
+td 02:36:05      touched on (587.0, 176.0)
+bp 02:36:05      pressed Sadang Serang Interaktif
+td 02:36:07      touched on (699.0, 338.00000000000006)
+bp 02:36:07      pressed Data
+td 02:36:08      touched on (732.0, 511.0)
+bp 02:36:08      pressed Menu Utama
+
+as 02:37:00 ---- APP STARTED ---
+
+sc 02:37:00 -- Menu Utama --
+td 02:37:02      touched on (623.0, 171.0)
+bp 02:37:03      pressed Sadang Serang Interaktif
+td 02:37:04      touched on (701.0, 340.0)
+bp 02:37:04      pressed Data
+
+sc 02:37:04 -- Data --
+td 02:37:05      touched on (733.0, 515.0)
+bp 02:37:05      pressed Menu Utama
+
+sc 02:37:05 -- Menu Utama --
+.. 02:37:07      .
+
+as 02:37:23 ---- APP STARTED ---
+
+sc 02:37:23 -- Menu Utama --
+td 02:37:26      touched on (614.0, 146.0)
+bp 02:37:26      pressed Sadang Serang Interaktif
+td 02:37:28      touched on (699.0, 335.0)
+bp 02:37:28      pressed Data
+
+sc 02:37:28 -- Data --
+td 02:37:29      touched on (781.0, 529.0)
+bp 02:37:29      pressed Menu Utama
+
+sc 02:37:29 -- Menu Utama --
+.. 02:37:30      .
+
+as 02:37:53 ---- APP STARTED ---
+
+sc 02:37:54 -- Menu Utama --
+
+as 02:38:05 ---- APP STARTED ---
+td 02:38:07      touched on (606.0, 155.00000000000003)
+bp 02:38:07      pressed Sadang Serang Interaktif
+td 02:38:09      touched on (709.0, 338.00000000000006)
+bp 02:38:09      pressed Data
+td 02:38:10      touched on (760.0, 519.0)
+bp 02:38:10      pressed Menu Utama
+
+as 02:39:07 ---- APP STARTED ---
+
+sc 02:39:07 -- Menu Utama --
+.. 02:39:14      .
+.. 02:39:24      .
+td 02:39:25      touched on (406.0, 153.0)
+bp 02:39:25      pressed Info Ngabandungan
+
+as 02:39:52 ---- APP STARTED ---
+
+sc 02:39:52 -- Menu Utama --
+td 02:39:55      touched on (405.0, 155.99999999999997)
+bp 02:39:55      pressed Info Ngabandungan
+
+as 02:40:44 ---- APP STARTED ---
+
+sc 02:40:45 -- Menu Utama --
+td 02:40:47      touched on (414.0, 166.00000000000003)
+bp 02:40:47      pressed Info Ngabandungan
+bp 02:40:47      pressed close pop up
+
+sc 02:40:47 -- Info Ngabandungan --
+.. 02:40:51      .
+td 02:40:56      touched on (409.0, 347.0)
+bp 02:40:57      pressed view image: https://pbs.twimg.com/media/B5Q5PgpCUAAd84n.jpg
+td 02:40:58      touched on (587.0, 398.0)
+bp 02:40:58      pressed close pop up
+td 02:40:59      touched on (544.0, 320.0)
+td 02:40:59      touched on (541.0, 316.00000000000006)
+td 02:40:59      touched on (540.0, 314.0)
+td 02:40:59      touched on (540.0, 314.0)
+td 02:40:59      touched on (540.0, 314.0)
+td 02:40:59      touched on (540.0, 314.0)
+td 02:41:00      touched on (540.0, 314.0)
+td 02:41:00      touched on (540.0, 314.0)
+td 02:41:00      touched on (540.0, 314.0)
+td 02:41:01      touched on (809.0, 362.0)
+bp 02:41:01      pressed filter: @infobdg
+.. 02:41:01      .
+td 02:41:05      touched on (801.0, 412.0)
+
+as 02:41:47 ---- APP STARTED ---
+
+sc 02:41:47 -- Menu Utama --
+td 02:41:51      touched on (782.0, 143.0)
+bp 02:41:51      pressed Rumah Kita
+td 02:41:52      touched on (625.0, 333.0)
+bp 02:41:52      pressed Info Tematik
+
+sc 02:41:52 -- Info Tematik --
+td 02:41:53      touched on (724.0, 517.0)
+bp 02:41:54      pressed Menu Utama
+
+sc 02:41:54 -- Menu Utama --
+.. 02:41:54      .
+
+as 16:04:08 ---- APP STARTED ---
+
+sc 16:04:08 -- :Menu Utama --
+.. 16:04:11      .
+td 16:04:15      touched on :(581.0, 168.0)
+bp 16:04:15      pressed :Sadang Serang Interaktif
+td 16:04:17      touched on :(464.0, 355.0)
+bp 16:04:17      pressed :Peta
+
+sc 16:04:17 -- :Peta --
+.. 16:04:21      .
+td 16:04:23      touched on :(364.0, 31.00000000000003)
+td 16:04:23      touched on :(377.0, 67.99999999999997)
+td 16:04:24      touched on :(445.0, 63.99999999999997)
+td 16:04:25      touched on :(445.0, 63.99999999999997)
+td 16:04:26      touched on :(230.0, 71.99999999999999)
+td 16:04:27      touched on :(230.0, 71.99999999999999)
+td 16:04:27      touched on :(161.0, 78.00000000000003)
+td 16:04:28      touched on :(161.0, 78.00000000000003)
+td 16:04:29      touched on :(69.0, 71.99999999999999)
+td 16:04:30      touched on :(56.0, 73.0)
+td 16:04:30      touched on :(40.0, 74.00000000000001)
+td 16:04:31      touched on :(102.0, 71.00000000000003)
+td 16:04:31      touched on :(184.0, 67.00000000000003)
+.. 16:04:31      .
+td 16:04:32      touched on :(280.0, 63.000000000000014)
+td 16:04:32      touched on :(361.0, 63.99999999999997)
+td 16:04:33      touched on :(462.0, 71.00000000000003)
+td 16:04:34      touched on :(462.0, 71.00000000000003)
+td 16:04:35      touched on :(731.0, 95.0)
+td 16:04:36      touched on :(769.0, 532.0)
+bp 16:04:36      pressed :Menu Utama
+
+sc 16:04:36 -- :Menu Utama --
+
+as 16:07:17 ---- APP STARTED ---
+
+sc 16:07:17 -- :Menu Utama --
+td 16:07:23      touched on :(609.0, 162.00000000000003)
+bp 16:07:23      pressed :Sadang Serang Interaktif
+td 16:07:25      touched on :(586.0, 161.0)
+td 16:07:26      touched on :(586.0, 161.0)
+bp 16:07:26      pressed :Sadang Serang Interaktif
+.. 16:07:27      .
+td 16:07:27      touched on :(586.0, 161.0)
+td 16:07:27      touched on :(586.0, 161.0)
+bp 16:07:28      pressed :Sadang Serang Interaktif
+td 16:07:30      touched on :(594.0, 140.99999999999997)
+td 16:07:30      touched on :(601.0, 146.0)
+bp 16:07:30      pressed :Sadang Serang Interaktif
+td 16:07:31      touched on :(491.0, 322.0)
+bp 16:07:31      pressed :Peta
+
+sc 16:07:31 -- :Peta --
+td 16:07:33      touched on :(392.0, 97.99999999999999)
+td 16:07:34      touched on :(392.0, 89.00000000000003)
+td 16:07:35      touched on :(656.0, 198.00000000000003)
+tu 16:07:35      -> up after 0.742 s on :(449.0, 311.99999999999994)
+td 16:07:36      touched on :(664.0, 161.0)
+tu 16:07:36      -> up after 0.342 s on :(477.0, 311.0)
+.. 16:07:37      .
+td 16:07:37      touched on :(651.0, 169.99999999999997)
+tu 16:07:37      -> up after 0.443 s on :(524.0, 345.0)
+td 16:07:38      touched on :(632.0, 173.00000000000003)
+tu 16:07:38      -> up after 0.418 s on :(628.0, 292.99999999999994)
+td 16:07:39      touched on :(236.0, 111.00000000000003)
+td 16:07:40      touched on :(237.0, 85.99999999999997)
+td 16:07:41      touched on :(233.0, 80.0)
+td 16:07:41      touched on :(245.99999999999997, 93.99999999999999)
+td 16:07:42      touched on :(458.0, 86.99999999999999)
+td 16:07:43      touched on :(462.0, 97.99999999999999)
+td 16:07:45      touched on :(159.0, 92.00000000000001)
+td 16:07:45      touched on :(168.0, 97.99999999999999)
+td 16:07:46      touched on :(237.0, 89.00000000000003)
+.. 16:07:47      .
+td 16:07:47      touched on :(92.0, 85.99999999999997)
+td 16:07:47      touched on :(95.0, 93.99999999999999)
+td 16:07:48      touched on :(389.0, 95.0)
+td 16:07:49      touched on :(557.0, 201.0)
+tu 16:07:49      -> up after 0.297 s on :(418.0, 186.0)
+td 16:07:50      touched on :(464.0, 104.99999999999999)
+td 16:07:51      touched on :(399.0, 106.0)
+td 16:07:51      touched on :(385.0, 96.00000000000001)
+td 16:07:52      touched on :(368.0, 253.00000000000003)
+tu 16:07:52      -> up after 0.332 s on :(531.0, 216.0)
+td 16:07:53      touched on :(483.00000000000006, 295.0)
+tu 16:07:53      -> up after 0.441 s on :(560.0, 206.99999999999997)
+td 16:07:54      touched on :(240.0, 103.99999999999997)
+td 16:07:55      touched on :(245.99999999999997, 91.0)
+td 16:07:55      touched on :(165.0, 93.99999999999999)
+td 16:07:56      touched on :(173.0, 82.00000000000003)
+.. 16:07:57      .
+td 16:07:57      touched on :(475.0, 81.00000000000001)
+td 16:07:58      touched on :(462.0, 88.0)
+td 16:07:59      touched on :(154.0, 103.99999999999997)
+td 16:07:59      touched on :(163.0, 85.99999999999997)
+td 16:08:00      touched on :(91.0, 95.0)
+td 16:08:00      touched on :(169.0, 84.0)
+td 16:08:01      touched on :(87.0, 93.00000000000003)
+td 16:08:02      touched on :(172.0, 81.00000000000001)
+td 16:08:02      touched on :(702.0, 195.99999999999997)
+td 16:08:03      touched on :(782.0, 557.0)
+td 16:08:04      touched on :(766.0, 529.0)
+bp 16:08:04      pressed :Menu Utama
+
+sc 16:08:04 -- :Menu Utama --
+
+as 16:59:07 ---- APP STARTED ---
+
+sc 16:59:07 -- :Menu Utama --
+
+as 17:00:11 ---- APP STARTED ---
+
+sc 17:00:11 -- :Menu Utama --
+
+as 17:01:02 ---- APP STARTED ---
+
+sc 17:01:02 -- :Menu Utama --
+
+as 17:02:09 ---- APP STARTED ---
+
+sc 17:02:09 -- :Menu Utama --
+
+as 17:02:40 ---- APP STARTED ---
+
+sc 17:02:40 -- :Menu Utama --
+td 17:02:46      touched on :(550.0, 172.0)
+bp 17:02:47      pressed :Sadang Serang Interaktif
+td 17:02:48      touched on :(706.0, 347.0)
+bp 17:02:48      pressed :Data
+
+sc 17:02:48 -- :Data --
+.. 17:02:50      .
+td 17:02:51      touched on :(335.0, 73.0)
+tu 17:02:51      -> up after 0.259 s on :(335.0, 73.0)
+td 17:02:52      touched on :(246.99999999999997, 75.99999999999999)
+td 17:02:53      touched on :(144.0, 78.00000000000003)
+td 17:02:55      touched on :(223.0, 80.0)
+td 17:02:56      touched on :(316.0, 80.0)
+td 17:02:57      touched on :(421.0, 80.0)
+td 17:02:58      touched on :(421.0, 80.0)
+td 17:02:58      touched on :(421.0, 80.0)
+td 17:02:58      touched on :(421.0, 80.0)
+td 17:02:58      touched on :(421.0, 80.0)
+
+as 17:03:40 ---- APP STARTED ---
+
+sc 17:03:40 -- :Menu Utama --
+
+as 17:04:09 ---- APP STARTED ---
+
+sc 17:04:09 -- :Menu Utama --
+td 17:04:14      touched on :(575.0, 171.0)
+bp 17:04:14      pressed :Sadang Serang Interaktif
+td 17:04:16      touched on :(682.0, 376.0)
+bp 17:04:16      pressed :Data
+
+sc 17:04:16 -- :Data --
+td 17:04:18      touched on :(435.0, 75.99999999999999)
+.. 17:04:19      .
+td 17:04:19      touched on :(354.0, 84.0)
+td 17:04:21      touched on :(199.0, 56.99999999999998)
+td 17:04:22      touched on :(90.0, 71.00000000000003)
+td 17:04:23      touched on :(200.0, 82.99999999999999)
+td 17:04:24      touched on :(310.0, 86.99999999999999)
+td 17:04:25      touched on :(462.0, 81.00000000000001)
+td 17:04:27      touched on :(791.0, 522.0)
+bp 17:04:27      pressed :Menu Utama
+
+sc 17:04:27 -- :Menu Utama --
+
+as 17:04:46 ---- APP STARTED ---
+
+sc 17:04:46 -- :Menu Utama --
+td 17:04:51      touched on :(592.0, 160.0)
+bp 17:04:51      pressed :Sadang Serang Interaktif
+td 17:04:52      touched on :(698.0, 341.0)
+bp 17:04:52      pressed :Data
+
+sc 17:04:52 -- :Data --
+.. 17:04:55      .
+td 17:04:56      touched on :(66.0, 86.99999999999999)
+td 17:04:57      touched on :(96.0, 86.99999999999999)
+td 17:04:58      touched on :(175.0, 85.00000000000001)
+td 17:04:59      touched on :(273.0, 85.00000000000001)
+td 17:05:00      touched on :(351.0, 82.99999999999999)
+td 17:05:01      touched on :(218.0, 93.99999999999999)
+td 17:05:02      touched on :(106.0, 93.99999999999999)
+td 17:05:03      touched on :(796.0, 512.0)
+bp 17:05:04      pressed :Menu Utama
+
+sc 17:05:04 -- :Menu Utama --
+.. 17:05:05      .
+
+as 17:05:51 ---- APP STARTED ---
+
+sc 17:05:51 -- :Menu Utama --
+td 17:05:57      touched on :(615.0, 167.0)
+bp 17:05:57      pressed :Sadang Serang Interaktif
+td 17:05:58      touched on :(694.0, 354.0)
+bp 17:05:58      pressed :Data
+
+sc 17:05:58 -- :Data --
+.. 17:06:00      .
+td 17:06:02      touched on :(244.99999999999997, 88.0)
+td 17:06:03      touched on :(208.0, 85.99999999999997)
+td 17:06:04      touched on :(112.0, 78.00000000000003)
+td 17:06:05      touched on :(364.0, 74.99999999999997)
+td 17:06:08      touched on :(284.0, 73.0)
+td 17:06:09      touched on :(370.0, 73.0)
+td 17:06:09      touched on :(176.0, 80.0)
+td 17:06:10      touched on :(110.0, 89.99999999999999)
+.. 17:06:10      .
+td 17:06:12      touched on :(795.0, 515.0)
+bp 17:06:12      pressed :Menu Utama
+
+sc 17:06:12 -- :Menu Utama --
+
+as 17:07:25 ---- APP STARTED ---
+
+sc 17:07:25 -- :Menu Utama --
+td 17:07:30      touched on :(601.0, 173.99999999999997)
+bp 17:07:30      pressed :Sadang Serang Interaktif
+td 17:07:31      touched on :(714.0, 356.0)
+bp 17:07:31      pressed :Data
+
+sc 17:07:31 -- :Data --
+td 17:07:33      touched on :(689.0, 73.0)
+.. 17:07:34      .
+td 17:07:34      touched on :(774.0, 67.99999999999997)
+td 17:07:35      touched on :(774.0, 67.99999999999997)
+td 17:07:36      touched on :(700.0, 74.99999999999997)
+td 17:07:36      touched on :(622.0, 80.0)
+td 17:07:37      touched on :(542.0, 86.99999999999999)
+td 17:07:42      touched on :(782.0, 527.0)
+bp 17:07:42      pressed :Menu Utama
+
+sc 17:07:42 -- :Menu Utama --
+
+as 17:09:18 ---- APP STARTED ---
+
+sc 17:09:18 -- :Menu Utama --
+td 17:09:24      touched on :(616.0, 168.0)
+bp 17:09:24      pressed :Sadang Serang Interaktif
+td 17:09:25      touched on :(688.0, 365.0)
+bp 17:09:25      pressed :Data
+
+sc 17:09:25 -- :Data --
+td 17:09:27      touched on :(61.0, 89.99999999999999)
+td 17:09:27      touched on :(120.0, 80.0)
+.. 17:09:28      .
+td 17:09:28      touched on :(204.0, 84.0)
+td 17:09:29      touched on :(297.0, 88.0)
+td 17:09:30      touched on :(778.0, 521.0)
+bp 17:09:30      pressed :Menu Utama
+
+sc 17:09:30 -- :Menu Utama --
+td 17:09:31      touched on :(575.0, 140.99999999999997)
+bp 17:09:31      pressed :Sadang Serang Interaktif
+td 17:09:31      touched on :(525.0, 344.0)
+bp 17:09:31      pressed :Peta
+
+sc 17:09:31 -- :Peta --
+.. 17:09:38      .
+.. 17:09:48      .
+.. 17:09:58      .
+.. 17:10:08      .
+td 17:10:13      touched on :(384.0, 80.0)
+td 17:10:14      touched on :(384.0, 80.0)
+td 17:10:15      touched on :(478.0, 77.0)
+td 17:10:16      touched on :(478.0, 77.0)
+.. 17:10:18      .
+td 17:10:19      touched on :(733.0, 531.0)
+bp 17:10:19      pressed :Menu Utama
+
+sc 17:10:19 -- :Menu Utama --
+td 17:10:20      touched on :(605.0, 182.0)
+bp 17:10:20      pressed :Sadang Serang Interaktif
+td 17:10:21      touched on :(722.0, 352.0)
+bp 17:10:21      pressed :Data
+
+sc 17:10:21 -- :Data --
+.. 17:10:28      .
+td 17:10:29      touched on :(33.0, 194.0)
+td 17:10:31      touched on :(791.0, 518.0)
+bp 17:10:31      pressed :Menu Utama
+
+sc 17:10:31 -- :Menu Utama --
+
+as 17:12:32 ---- APP STARTED ---
+
+sc 17:12:32 -- :Menu Utama --
+td 17:12:38      touched on :(596.0, 140.00000000000003)
+bp 17:12:38      pressed :Sadang Serang Interaktif
+td 17:12:40      touched on :(670.0, 357.0)
+bp 17:12:40      pressed :Data
+
+sc 17:12:40 -- :Data --
+.. 17:12:42      .
+td 17:12:42      touched on :(356.0, 80.0)
+td 17:12:43      touched on :(356.0, 80.0)
+td 17:12:44      touched on :(440.0, 71.00000000000003)
+td 17:12:45      touched on :(532.0, 78.00000000000003)
+td 17:12:45      touched on :(654.0, 82.99999999999999)
+
+as 17:13:19 ---- APP STARTED ---
+
+sc 17:13:19 -- :Menu Utama --
+td 17:13:24      touched on :(616.0, 142.0)
+bp 17:13:25      pressed :Sadang Serang Interaktif
+td 17:13:25      touched on :(706.0, 341.0)
+bp 17:13:25      pressed :Data
+
+sc 17:13:25 -- :Data --
+td 17:13:26      touched on :(523.0, 67.00000000000003)
+td 17:13:28      touched on :(440.0, 74.99999999999997)
+td 17:13:28      touched on :(344.0, 93.00000000000003)
+.. 17:13:29      .
+td 17:13:30      touched on :(448.0, 88.0)
+td 17:13:31      touched on :(523.0, 88.0)
+td 17:13:32      touched on :(587.0, 85.99999999999997)
+.. 17:13:39      .
+
+as 17:14:15 ---- APP STARTED ---
+
+sc 17:14:15 -- :Menu Utama --
+td 17:14:20      touched on :(607.0, 133.99999999999997)
+bp 17:14:21      pressed :Sadang Serang Interaktif
+td 17:14:21      touched on :(730.0, 400.0)
+bp 17:14:21      pressed :Data
+
+sc 17:14:21 -- :Data --
+td 17:14:22      touched on :(533.0, 82.99999999999999)
+.. 17:14:25      .
+td 17:14:25      touched on :(450.0, 77.0)
+td 17:14:26      touched on :(364.0, 81.00000000000001)
+td 17:14:29      touched on :(364.0, 81.00000000000001)
+td 17:14:30      touched on :(433.0, 78.99999999999999)
+td 17:14:32      touched on :(514.0, 78.99999999999999)
+td 17:14:32      touched on :(618.0, 74.00000000000001)
+
+as 17:14:55 ---- APP STARTED ---
+
+sc 17:14:55 -- :Menu Utama --
+td 17:15:00      touched on :(620.0, 182.0)
+bp 17:15:01      pressed :Sadang Serang Interaktif
+td 17:15:02      touched on :(729.0, 347.99999999999994)
+bp 17:15:02      pressed :Data
+
+sc 17:15:02 -- :Data --
+td 17:15:03      touched on :(524.0, 93.00000000000003)
+.. 17:15:05      .
+td 17:15:12      touched on :(762.0, 530.0)
+bp 17:15:12      pressed :Menu Utama
+
+sc 17:15:12 -- :Menu Utama --
+
+as 17:16:11 ---- APP STARTED ---
+
+sc 17:16:11 -- :Menu Utama --
+td 17:16:18      touched on :(625.0, 160.0)
+tu 17:16:18      -> up after 0.235 s on :(625.0, 160.0)
+bp 17:16:18      pressed :Sadang Serang Interaktif
+td 17:16:19      touched on :(685.0, 380.0)
+tu 17:16:20      -> up after 0.266 s on :(685.0, 380.0)
+bp 17:16:20      pressed :Data
+
+sc 17:16:20 -- :Data --
+.. 17:16:21      .
+td 17:16:21      touched on :(358.0, 74.99999999999997)
+.. 17:16:31      .
+td 17:16:34      touched on :(347.0, 73.0)
+td 17:16:35      touched on :(451.0, 82.99999999999999)
+td 17:16:38      touched on :(517.0, 92.00000000000001)
+.. 17:16:41      .
+td 17:16:41      touched on :(602.0, 86.99999999999999)
+td 17:16:42      touched on :(524.0, 71.00000000000003)
+td 17:16:43      touched on :(453.0, 74.99999999999997)
+td 17:16:49      touched on :(356.0, 80.0)
+.. 17:16:51      .
+
+as 17:17:15 ---- APP STARTED ---
+
+sc 17:17:15 -- :Menu Utama --
+td 17:17:20      touched on :(592.0, 168.0)
+bp 17:17:21      pressed :Sadang Serang Interaktif
+td 17:17:21      touched on :(709.0, 374.00000000000006)
+bp 17:17:22      pressed :Data
+
+sc 17:17:22 -- :Data --
+td 17:17:23      touched on :(517.0, 85.00000000000001)
+td 17:17:24      touched on :(429.0, 86.99999999999999)
+.. 17:17:24      .
+td 17:17:25      touched on :(340.0, 80.0)
+td 17:17:27      touched on :(519.0, 84.0)
+td 17:17:27      touched on :(603.0, 81.00000000000001)
+td 17:17:29      touched on :(422.0, 82.00000000000003)
+td 17:17:29      touched on :(350.0, 85.99999999999997)
+td 17:17:34      touched on :(768.0, 518.0)
+bp 17:17:34      pressed :Menu Utama
+
+sc 17:17:34 -- :Menu Utama --
+.. 17:17:34      .
+
+as 17:17:57 ---- APP STARTED ---
+
+sc 17:17:58 -- :Menu Utama --
+td 17:18:03      touched on :(592.0, 160.0)
+bp 17:18:03      pressed :Sadang Serang Interaktif
+td 17:18:04      touched on :(696.0, 339.0)
+bp 17:18:04      pressed :Data
+
+sc 17:18:04 -- :Data --
+td 17:18:06      touched on :(444.0, 67.99999999999997)
+.. 17:18:07      .
+td 17:18:07      touched on :(362.0, 74.00000000000001)
+td 17:18:09      touched on :(532.0, 85.99999999999997)
+td 17:18:10      touched on :(590.0, 88.0)
+td 17:18:11      touched on :(443.0, 89.00000000000003)
+td 17:18:12      touched on :(370.0, 86.99999999999999)
+td 17:18:13      touched on :(431.0, 81.00000000000001)
+td 17:18:14      touched on :(520.0, 84.0)
+td 17:18:15      touched on :(611.0, 82.99999999999999)
+.. 17:18:17      .
+td 17:18:18      touched on :(343.0, 81.00000000000001)
+td 17:18:24      touched on :(769.0, 519.0)
+bp 17:18:24      pressed :Menu Utama
+
+sc 17:18:24 -- :Menu Utama --

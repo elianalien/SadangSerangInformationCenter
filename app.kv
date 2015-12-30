@@ -1,0 +1,72 @@
+<Widget>:
+    font_name: 'lib/FiraSans-Regular.otf'
+
+#float/scatter layout
+<MainContainer>:
+    size_hint: None, None
+    width: 1920
+    height: 1080
+
+#    do_rotation: False
+#    do_translation: False
+
+    ScreenManager:
+        id: screen_manager
+
+        size_hint: None, None
+        width: 1920
+        height: 1080
+
+        on_current:
+            self.current_screen.reset()
+            root.log_screen_change()
+
+#top navigation bar
+<TopBar>:
+    id: top_bar
+    size_hint: 1, None
+    height: 80
+    pos_hint: {'top':1}
+
+    canvas.before:
+        Color:
+            rgb: 0.03, 0.35, 0.5
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    Widget:
+        size_hint: None, 1
+        width: 50
+
+    Label:
+        id: page_title
+        size_hint: None, 1
+        background_color: 0, 0, 0, 0
+
+        color: 1, 1, 1, 1
+        width: 522
+
+        halign: "left"
+        valign: "middle"
+        font_size: 40
+        bold: True
+        text_size: self.size
+
+        text: 'MENU UTAMA'
+
+    #padding
+    Widget:
+        size_hint: None, 1
+        width: 800
+
+    Button:
+        id: btn_back
+        size_hint: None, None
+
+        color: 1, 1, 1, 1
+        width: 315
+        height: 79
+
+        background_normal: "lib/btn menu utama.png"
+        background_down: "lib/btn menu utama down.png"

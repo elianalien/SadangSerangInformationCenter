@@ -1,0 +1,102 @@
+
+as 22:22:06 ---- APP STARTED ---
+
+sc 22:22:06 -- Menu Utama --
+.. 22:22:07      .
+.. 22:22:19      .
+.. 22:22:29      .
+
+as 22:24:04 ---- APP STARTED ---
+
+sc 22:24:04 -- Menu Utama --
+.. 22:24:16      .
+td 22:24:18      touched on (582.0, 143.0)
+bp 22:24:18      pressed Sadang Serang Interaktif
+
+as 22:25:19 ---- APP STARTED ---
+
+sc 22:25:20 -- Menu Utama --
+.. 22:25:32      .
+.. 22:25:42      .
+
+as 22:51:50 ---- APP STARTED ---
+
+as 22:53:28 ---- APP STARTED ---
+
+as 22:55:36 ---- APP STARTED ---
+
+as 22:57:48 ---- APP STARTED ---
+
+as 22:58:22 ---- APP STARTED ---
+
+as 22:58:40 ---- APP STARTED ---
+
+as 23:03:49 ---- APP STARTED ---
+
+as 23:07:06 ---- APP STARTED ---
+
+as 23:07:37 ---- APP STARTED ---
+
+as 23:08:27 ---- APP STARTED ---
+
+as 23:11:31 ---- APP STARTED ---
+
+as 23:11:45 ---- APP STARTED ---
+
+as 23:12:49 ---- APP STARTED ---
+
+as 23:13:08 ---- APP STARTED ---
+
+as 23:13:36 ---- APP STARTED ---
+
+as 23:13:36 ---- APP STARTED ---
+
+as 23:13:45 ---- APP STARTED ---
+
+as 23:16:35 ---- APP STARTED ---
+td 23:16:52      touched on (579.0, 41.99999999999997)
+td 23:19:47      touched on (890.0, 292.0)
+
+as 23:20:56 ---- APP STARTED ---
+td 23:21:09      touched on (807.0, 308.0)
+
+as 23:21:59 ---- APP STARTED ---
+td 23:22:14      touched on (779.0, 135.0)
+bp 23:22:14      pressed Rumah Kita
+
+as 23:25:54 ---- APP STARTED ---
+td 23:26:12      touched on (790.0, 146.0)
+bp 23:26:12      pressed Rumah Kita
+td 23:26:13      touched on (623.0, 333.0)
+bp 23:26:14      pressed Info Tematik
+td 23:26:14      touched on (738.0, 506.0)
+
+as 23:46:26 ---- APP STARTED ---
+.. 23:46:38      .
+td 23:46:40      touched on (422.0, 158.99999999999997)
+bp 23:46:40      pressed Info Ngabandungan
+bp 23:46:40      pressed close pop up
+td 23:46:46      touched on (512.0, 335.0)
+bp 23:46:46      pressed view image: https://pbs.twimg.com/media/B5Q5PgpCUAAd84n.jpg
+
+as 23:47:32 ---- APP STARTED ---
+.. 23:47:44      .
+.. 23:47:54      .
+.. 23:48:04      .
+.. 23:48:14      .
+.. 23:48:24      .
+.. 23:48:34      .
+td 23:48:39      touched on (401.0, 136.99999999999997)
+bp 23:48:39      pressed Info Ngabandungan
+bp 23:48:39      pressed close pop up
+td 23:48:43      touched on (453.0, 358.0)
+bp 23:48:43      pressed view image: https://pbs.twimg.com/media/B5Q5PgpCUAAd84n.jpg
+.. 23:48:44      .
+td 23:48:44      touched on (626.0, 401.0)
+bp 23:48:44      pressed close pop up
+td 23:48:45      touched on (715.0, 354.0)
+bp 23:48:45      pressed filter: @infobandung
+td 23:48:48      touched on (725.0, 246.99999999999997)
+td 23:48:49      touched on (730.0, 217.00000000000003)
+bp 23:48:49      pressed filter: Sadang Serang
+td 23:48:53      touched on (734.0, 522.0)

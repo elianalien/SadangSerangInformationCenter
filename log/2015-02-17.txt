@@ -1,0 +1,254 @@
+
+as 11:27:22 ---- APP STARTED ---
+
+sc 11:27:22 -- :Menu Utama --
+.. 11:27:27      .
+.. 11:27:36      .
+.. 11:27:46      .
+.. 11:27:56      .
+.. 11:28:06      .
+.. 11:28:16      .
+.. 11:28:26      .
+.. 11:28:36      .
+.. 11:28:46      .
+.. 11:28:56      .
+.. 11:29:06      .
+.. 11:29:16      .
+.. 11:29:26      .
+.. 11:29:36      .
+.. 11:29:46      .
+.. 11:29:56      .
+.. 11:30:06      .
+
+as 11:30:20 ---- APP STARTED ---
+
+sc 11:30:20 -- :Menu Utama --
+.. 11:30:29      .
+td 11:30:36      touched on :(1176.0, 361.0)
+bp 11:30:36      pressed :Sadang Serang Interaktif
+td 11:30:38      touched on :(1406.0, 717.9999999999999)
+bp 11:30:38      pressed :Sadang Serang Interaktif - Data
+
+sc 11:30:38 -- :Sadang Serang Interaktif - Data --
+.. 11:30:39      .
+.. 11:30:49      .
+.. 11:30:59      .
+td 11:31:00      touched on :(793.0, 397.0)
+tu 11:31:00      -> up after 0.358 s on :(1206.0, 334.0)
+.. 11:31:09      .
+td 11:31:12      touched on :(850.0, 165.0)
+bp 11:31:12      pressed :view :Pemeluk Agama
+.. 11:31:19      .
+td 11:31:23      touched on :(1017.9999999999999, 173.00000000000003)
+bp 11:31:23      pressed :view :Pendidikan
+.. 11:31:29      .
+td 11:31:30      touched on :(1155.0, 153.00000000000006)
+bp 11:31:30      pressed :view :Struktur Umur
+td 11:31:35      touched on :(685.0, 181.00000000000003)
+bp 11:31:35      pressed :view :Mata Pencaharian
+.. 11:31:39      .
+td 11:31:40      touched on :(1424.0, 1053.0)
+bp 11:31:40      pressed :Menu Utama
+
+sc 11:31:40 -- :Menu Utama --
+.. 11:31:49      .
+.. 11:31:59      .
+td 11:32:08      touched on :(1184.0, 350.99999999999994)
+bp 11:32:08      pressed :Sadang Serang Interaktif
+.. 11:32:09      .
+td 11:32:11      touched on :(1257.0, 120.00000000000006)
+td 11:32:11      touched on :(740.0, 352.0)
+bp 11:32:11      pressed :Info Ngabandungan
+bp 11:32:11      pressed :close pop up
+
+sc 11:32:12 -- :Info Ngabandungan --
+.. 11:32:19      .
+td 11:32:21      touched on :(972.0, 742.0000000000001)
+td 11:32:22      touched on :(918.0, 714.0)
+tu 11:32:23      -> up after 1.873 s on :(932.0, 449.99999999999994)
+td 11:32:28      touched on :(1551.0, 529.0)
+.. 11:32:29      .
+td 11:32:31      touched on :(979.0, 120.00000000000006)
+tu 11:32:31      -> up after 0.27 s on :(990.0, 364.0)
+td 11:32:31      touched on :(961.0, 270.99999999999994)
+tu 11:32:32      -> up after 0.476 s on :(977.0000000000001, 463.99999999999994)
+td 11:32:32      touched on :(1025.0, 807.0)
+td 11:32:33      touched on :(994.9999999999999, 724.0)
+tu 11:32:33      -> up after 0.292 s on :(959.0, 441.0)
+td 11:32:33      touched on :(971.0, 168.99999999999997)
+td 11:32:33      touched on :(1017.9999999999999, 242.00000000000003)
+td 11:32:33      touched on :(979.9999999999999, 270.99999999999994)
+.. 11:32:39      .
+.. 11:32:50      .
+td 11:32:57      touched on :(1416.0, 1061.0)
+bp 11:32:57      pressed :Menu Utama
+
+sc 11:32:57 -- :Menu Utama --
+.. 11:32:59      .
+td 11:33:02      touched on :(138.0, 47.99999999999995)
+tu 11:33:03      -> up after 0.293 s on :(166.0, 493.0)
+td 11:33:04      touched on :(1884.0, 383.0)
+tu 11:33:05      -> up after 0.354 s on :(810.0, 386.99999999999994)
+td 11:33:07      touched on :(24.0, 374.00000000000006)
+tu 11:33:07      -> up after 0.349 s on :(687.0, 492.00000000000006)
+.. 11:33:10      .
+td 11:33:10      touched on :(779.0, 1103.0)
+td 11:33:10      touched on :(682.0, 1076.0)
+tu 11:33:11      -> up after 0.253 s on :(754.0, 844.0)
+td 11:33:12      touched on :(203.0, 954.0)
+td 11:33:14      touched on :(309.0, 162.00000000000003)
+td 11:33:14      touched on :(211.0, 24.000000000000036)
+bp 11:33:14      pressed :e-Kelurahan
+.. 11:33:20      .
+.. 11:33:29      .
+td 11:33:38      touched on :(0.0, 375.0)
+.. 11:33:39      .
+td 11:33:40      touched on :(1397.0, 653.0)
+td 11:33:41      touched on :(1592.0, 554.0)
+td 11:33:41      touched on :(1370.0, 547.0)
+td 11:33:42      touched on :(1415.0, 523.0)
+td 11:33:43      touched on :(1121.0, 565.0)
+td 11:33:43      touched on :(1012.0, 550.0)
+td 11:33:43      touched on :(902.0, 515.0)
+.. 11:33:49      .
+td 11:33:57      touched on :(1611.0, 1088.0)
+tu 11:33:57      -> up after 0.215 s on :(1611.0, 901.0)
+td 11:33:57      touched on :(1919.0, 394.99999999999994)
+.. 11:34:00      .
+.. 11:34:10      .
+td 11:34:13      touched on :(1577.0, 363.00000000000006)
+bp 11:34:13      pressed :Rumah Kita
+td 11:34:15      touched on :(1230.0, 695.9999999999999)
+bp 11:34:15      pressed :Rumah Kita - Edukasi Tematik
+
+sc 11:34:15 -- :Rumah Kita - Edukasi Tematik --
+td 11:34:17      touched on :(812.0, 836.0000000000001)
+bp 11:34:17      pressed :open e-book :Hidroponik
+td 11:34:18      touched on :(1301.0, 575.0)
+.. 11:34:20      .
+tu 11:34:20      -> up after 0.587 s on :(1307.0, 533.0)
+td 11:34:22      touched on :(1292.0, 405.0)
+tu 11:34:24      -> up after 2.254 s on :(1295.0, 477.99999999999994)
+td 11:34:26      touched on :(1232.0, 375.99999999999994)
+td 11:34:27      touched on :(1646.0, 544.0000000000001)
+tu 11:34:27      -> up after 0.226 s on :(1655.0, 543.0)
+tu 11:34:27      -> up after 0.382 s on :(1284.0, 510.99999999999994)
+td 11:34:29      touched on :(1208.0, 430.99999999999994)
+tu 11:34:29      -> up after 0.255 s on :(1308.0, 527.0)
+td 11:34:29      touched on :(1250.0, 496.0)
+td 11:34:29      touched on :(1247.0, 482.0)
+td 11:34:30      touched on :(1243.0, 498.00000000000006)
+.. 11:34:30      .
+td 11:34:32      touched on :(1811.0, 581.0)
+bp 11:34:32      pressed :next page to :1
+.. 11:34:40      .
+.. 11:34:50      .
+.. 11:35:00      .
+td 11:35:00      touched on :(104.0, 519.0)
+bp 11:35:00      pressed :prev page to :0
+td 11:35:01      touched on :(119.0, 517.0)
+td 11:35:02      touched on :(131.0, 510.0)
+td 11:35:03      touched on :(116.0, 504.0)
+td 11:35:07      touched on :(1414.0, 1048.0)
+bp 11:35:07      pressed :Menu Utama
+
+sc 11:35:07 -- :Menu Utama --
+.. 11:35:10      .
+td 11:35:10      touched on :(1159.0, 1069.0)
+td 11:35:10      touched on :(1234.0, 1049.0)
+tu 11:35:10      -> up after 0.403 s on :(1135.0, 311.0)
+.. 11:35:20      .
+.. 11:35:30      .
+.. 11:35:40      .
+td 11:35:45      touched on :(1082.0, 251.0)
+td 11:35:45      touched on :(1082.0, 251.0)
+td 11:35:45      touched on :(1082.0, 251.0)
+.. 11:35:50      .
+.. 11:36:00      .
+.. 11:36:10      .
+.. 11:36:20      .
+
+as 11:37:47 ---- APP STARTED ---
+
+sc 11:37:47 -- :Menu Utama --
+.. 11:37:56      .
+td 11:37:58      touched on :(791.0, 356.0)
+bp 11:37:58      pressed :Info Ngabandungan
+bp 11:37:58      pressed :close pop up
+
+sc 11:37:58 -- :Info Ngabandungan --
+td 11:38:05      touched on :(1457.0, 733.0)
+bp 11:38:05      pressed :filter: @infobandung
+.. 11:38:06      .
+td 11:38:10      touched on :(847.0, 499.99999999999994)
+.. 11:38:16      .
+td 11:38:26      touched on :(1437.0, 881.0)
+.. 11:38:26      .
+td 11:38:27      touched on :(1449.0, 880.0000000000001)
+td 11:38:28      touched on :(1454.0, 878.0)
+td 11:38:29      touched on :(1580.0, 735.0)
+bp 11:38:29      pressed :filter: @infobdg
+.. 11:38:36      .
+.. 11:38:46      .
+.. 11:38:56      .
+.. 11:39:06      .
+td 11:39:13      touched on :(1444.0, 519.0)
+td 11:39:15      touched on :(1456.0, 519.0)
+td 11:39:16      touched on :(1433.0, 874.0)
+.. 11:39:16      .
+td 11:39:18      touched on :(1450.0, 826.0)
+bp 11:39:18      pressed :filter: @ridwankamil
+.. 11:39:26      .
+.. 11:39:36      .
+td 11:39:37      touched on :(1744.0, 823.0)
+bp 11:39:37      pressed :filter: @2Serang
+.. 11:39:46      .
+.. 11:39:56      .
+.. 11:40:06      .
+.. 11:40:16      .
+td 11:40:19      touched on :(1420.0, 1067.0)
+bp 11:40:19      pressed :Menu Utama
+
+sc 11:40:19 -- :Menu Utama --
+td 11:40:25      touched on :(1597.0, 341.0)
+bp 11:40:25      pressed :Rumah Kita
+.. 11:40:26      .
+td 11:40:27      touched on :(1637.0, 726.0000000000001)
+bp 11:40:27      pressed :Rumah Kita - Galeri
+
+sc 11:40:27 -- :Rumah Kita - Galeri --
+td 11:40:33      touched on :(1437.0, 1073.0)
+bp 11:40:33      pressed :Menu Utama
+
+sc 11:40:33 -- :Menu Utama --
+.. 11:40:36      .
+td 11:40:38      touched on :(756.0, 345.0)
+bp 11:40:38      pressed :Info Ngabandungan
+bp 11:40:38      pressed :close pop up
+
+sc 11:40:38 -- :Info Ngabandungan --
+td 11:40:44      touched on :(1395.0, 288.00000000000006)
+bp 11:40:44      pressed :filter: perda
+.. 11:40:46      .
+td 11:40:54      touched on :(1419.0, 1044.0)
+bp 11:40:54      pressed :Menu Utama
+
+sc 11:40:54 -- :Menu Utama --
+td 11:40:56      touched on :(780.0, 350.0)
+bp 11:40:56      pressed :Info Ngabandungan
+bp 11:40:56      pressed :close pop up
+
+sc 11:40:56 -- :Info Ngabandungan --
+.. 11:40:56      .
+td 11:41:05      touched on :(1724.0, 818.0)
+bp 11:41:05      pressed :filter: @2Serang
+.. 11:41:06      .
+td 11:41:08      touched on :(1438.0, 769.0)
+bp 11:41:08      pressed :filter: @diskominfobdg
+td 11:41:13      touched on :(1459.0, 670.0)
+td 11:41:14      touched on :(1392.0, 668.0)
+td 11:41:16      touched on :(1398.0, 669.0)
+.. 11:41:16      .
+td 11:41:20      touched on :(1452.0, 827.0)
+bp 11:41:20      pressed :filter: @ridwankamil
+.. 11:41:26      .

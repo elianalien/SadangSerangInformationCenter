@@ -1,0 +1,64 @@
+<MenuUtama>:
+    name: "Menu Utama"
+
+    FloatLayout:
+        anchor_x: "left"
+        anchor_y: "bottom"
+        Image:
+            size_hint: None, None
+            size: 1920, 1080
+            source: 'menu_utama/lib/bg.png'
+            pos_hint:{'top':1, 'center_x': 0.5}
+
+        BoxLayout:
+            id: btn_menu_utama_cont
+            size_hint: None, None
+            orientation: "horizontal"
+
+            width: 1630
+            height: 300
+
+            pos_hint:{'y':0.1, 'center_x': 0.5}
+
+        #sub menu
+        FloatLayout:
+            id: submenu
+            size_hint: None, None
+            width: 1920
+            height: 0
+            opacity: 0
+
+            Button:
+                id: black_mask
+                size_hint: 1, 1
+                active: False
+                background_color: 0, 0, 0, 0.7
+                pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+#            Image:
+#                id: menu_button
+
+            RelativeLayout:
+                id: submenu_cont
+                size_hint: None, None
+                width: 10
+                height: 10
+                pos: (0, 430)
+
+                Image:
+                    id: submenu_bg
+                    size_hint: None, None
+                    width: 895
+                    height: 408
+                    pos_hint: {'center_x': 0.5, 'y': 0}
+
+                Image:
+                    id: submenu_super
+                    size_hint: None, None
+                    source: 'menu_utama/lib/btn rumah kita sub.png'
+                    size: 415, 312
+                    pos: (-415/2, -322)
+
+<BtnMenuUtama>:
+    size_hint: None, None
+    size: 415, 312

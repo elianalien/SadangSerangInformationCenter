@@ -1,0 +1,193 @@
+<InfoPerkembanganRumah>:
+    name: "Rumah Kita - Galeri"
+    FloatLayout:
+        id: container
+        size_hint: 1, None
+        height: 1000
+
+#        canvas.before:
+#            Color:
+#                rgba: 1, 1, 1, 1
+#            Rectangle:
+#                pos: self.pos
+#                size: self.size
+
+        ScrollView:
+            size_hint: None, 1
+            width: 1440
+            pos_hint: {'center_x': 0.5}
+
+            #canvas.before:
+            #    Color:
+            #        rgb: 253, 242, 242
+            #    Rectangle:
+            #        pos: self.pos
+            #        size: self.size
+
+            StackLayout:
+                id: album_container
+                size_hint: 1, None
+                spacing: 6.67
+
+<InfoTematik>:
+    name: "Rumah Kita - Edukasi Tematik"
+    FloatLayout:
+        id: container
+        size_hint: 1, None
+        height: 1000
+
+        canvas.before:
+            Color:
+                rgba: 1, 1, 1, 1
+            Rectangle:
+                pos: self.pos
+                size: self.size
+        ScrollView:
+            size_hint: None, 1
+            width: 1440
+            pos_hint: {'center_x': 0.5}
+
+            canvas.before:
+                Color:
+                    rgb: 1, 1, 1
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+
+            StackLayout:
+                id: book_container
+                size_hint: 1, None
+                spacing: 6.67
+
+<AlbumView>:
+    name: "Album View"
+    FloatLayout:
+        id: albumView
+        size_hint: 1, None
+        height:  1000 #500
+
+        ScrollView:
+            size_hint: None, 1
+            width: 1440
+            pos_hint: {'center_x': 0.5}
+
+            canvas.before:
+                Color:
+                    rgb: 1, 1, 1
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+
+            StackLayout:
+                id: photo_container
+                size_hint: 1, None
+                spacing: 6.67
+
+#RelativeLayout
+<Thumbnail_Btn>
+    size_hint: None, None
+    size: 350, 433
+
+    Button:
+        id: bg
+        background_normal: "rumah_kita/lib/thumbnail bg.png"
+
+
+    FloatLayout:
+        size_hint: None, None
+        size: 310, 385
+        pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+        Image:
+            id: img
+            size_hint: None, None
+            size: 310, 310
+            pos_hint: {'center_x': 0.5, 'top': 1}
+
+        Label:
+            id: label
+            font_size: 32
+            color: 0, 0, 0, 1
+            size_hint: None, None
+            size: 286, 60
+            text_size: self.size
+
+            halign: 'center'
+            valign: 'top'
+
+            max_lines: 2
+            pos_hint: {'center_x': 0.5, 'top': 0.15}
+
+
+<FullSizeViewer>
+    size_hint: 1, None
+    height: 1000
+
+    Button:
+        id: bg
+        background_color: 0, 0, 0, 0.7
+        size_hint: 1, None
+        height: 1000
+
+    ScrollView:
+
+        RelativeLayout:
+            id: img_container
+            pos_hint: {'center_x':.5, 'center_y':.5}
+            size_hint: None, None
+
+            Image:
+                id: img
+                size_hint: None, None
+                allow_stretch: True
+                pos_hint: {'center_x':.5, 'center_y':.5}
+
+    Button:
+        id: close_btn
+        size_hint:None,None
+        size:167,167
+        pos_hint: {'right': 0.98, 'top': 0.96}
+        background_normal:"rumah_kita/lib/close.png"
+        background_down:"rumah_kita/lib/close down.png"
+        on_release:
+            root.close()
+
+    Button:
+        id: prev_btn
+        size_hint:None,None
+        size:167,167
+        pos_hint: {'x': 0.02, 'center_y': .5}
+        background_normal:"rumah_kita/lib/prev.png"
+        background_down:"rumah_kita/lib/prev down.png"
+        on_release:
+            root.prev_image()
+
+    Button:
+        id: next_btn
+        size_hint:None,None
+        size:167,167
+        pos_hint: {'right': 0.98, 'center_y': .5}
+        background_normal:"rumah_kita/lib/next.png"
+        background_down:"rumah_kita/lib/next down.png"
+        on_release:
+            root.next_image()
+
+    Button:
+        id: zoom_in_btn
+        size_hint:None,None
+        size:112,112
+        pos_hint: {'right': 0.98, 'y': 0.04}
+        background_normal:"rumah_kita/lib/zoom in.png"
+        background_down:"rumah_kita/lib/zoom in down.png"
+        on_release:
+            root.zoom_in()
+
+    Button:
+        id: zoom_out_btn
+        size_hint:None,None
+        size:112,112
+        pos_hint: {'right': 0.90, 'y': 0.04}
+        background_normal:"rumah_kita/lib/zoom out.png"
+        background_down:"rumah_kita/lib/zoom out down.png"
+        on_release:
+            root.zoom_out()

@@ -1,0 +1,94 @@
+
+as 14:44:38 ---- APP STARTED ---
+
+sc 14:44:39 -- :Menu Utama --
+.. 14:44:49      .
+td 14:44:52      touched on :(1192.0, 332.00000000000006)
+bp 14:44:52      pressed :Sadang Serang Interaktif
+td 14:44:53      touched on :(769.0, 361.0)
+td 14:44:54      touched on :(769.0, 339.99999999999994)
+bp 14:44:54      pressed :Info Ngabandungan
+bp 14:44:54      pressed :close pop up
+
+sc 14:45:05 -- :Info Ngabandungan --
+.. 14:45:06      .
+td 14:45:06      touched on :(778.0, 333.0)
+td 14:45:07      touched on :(1433.0, 752.0)
+td 14:45:08      touched on :(1568.0, 736.0)
+bp 14:45:08      pressed :filter: @infobdg
+td 14:45:08      touched on :(1708.0, 724.0)
+bp 14:45:08      pressed :filter: @lokerbdg
+td 14:45:09      touched on :(1439.0, 729.0)
+bp 14:45:09      pressed :filter: @infobandung
+td 14:45:09      touched on :(1675.0, 537.0)
+td 14:45:10      touched on :(1825.0, 533.0)
+td 14:45:11      touched on :(1775.0, 524.0)
+td 14:45:11      touched on :(1866.0, 517.0)
+tu 14:45:12      -> up after 0.35 s on :(1866.0, 517.0)
+td 14:45:12      touched on :(1838.0, 510.99999999999994)
+td 14:45:12      touched on :(1471.0, 477.0)
+td 14:45:13      touched on :(1474.0, 455.0)
+bp 14:45:13      pressed :filter: Sadang Serang
+td 14:45:13      touched on :(1610.0, 399.0)
+td 14:45:14      touched on :(1826.0, 378.0)
+td 14:45:15      touched on :(1715.0, 435.99999999999994)
+.. 14:45:15      .
+td 14:45:15      touched on :(1630.0, 416.99999999999994)
+bp 14:45:16      pressed :filter: lowongan
+td 14:45:16      touched on :(1741.0, 416.0)
+bp 14:45:16      pressed :filter: pekerjaan
+td 14:45:16      touched on :(1581.0, 358.0)
+td 14:45:17      touched on :(1513.0, 336.99999999999994)
+td 14:45:17      touched on :(1407.0, 364.0)
+bp 14:45:18      pressed :filter: persib
+td 14:45:18      touched on :(1523.0, 368.00000000000006)
+bp 14:45:18      pressed :filter: #persibday
+td 14:45:18      touched on :(1466.0, 714.9999999999999)
+bp 14:45:19      pressed :filter: @infobandung
+td 14:45:19      touched on :(1602.0, 730.0)
+bp 14:45:19      pressed :filter: @infobdg
+
+as 20:01:34 ---- APP STARTED ---
+
+sc 20:01:34 -- :Menu Utama --
+.. 20:01:43      .
+.. 20:01:53      .
+td 20:02:01      touched on :(1194.0, 336.99999999999994)
+bp 20:02:01      pressed :Sadang Serang Interaktif
+td 20:02:01      touched on :(1191.0, 369.0)
+td 20:02:02      touched on :(1198.0, 339.99999999999994)
+tu 20:02:03      -> up after 0.601 s on :(1198.0, 339.99999999999994)
+bp 20:02:03      pressed :Sadang Serang Interaktif
+.. 20:02:03      .
+td 20:02:04      touched on :(1400.0, 719.0)
+tu 20:02:04      -> up after 0.308 s on :(1400.0, 719.0)
+bp 20:02:04      pressed :Data Kependudukan
+
+sc 20:02:04 -- :Data Kependudukan --
+td 20:02:05      touched on :(1005.0, 176.0)
+bp 20:02:05      pressed :view :Pendidikan
+td 20:02:06      touched on :(1162.0, 168.99999999999997)
+bp 20:02:07      pressed :view :Struktur Umur
+td 20:02:07      touched on :(888.0, 176.99999999999997)
+bp 20:02:07      pressed :view :Pemeluk Agama
+td 20:02:07      touched on :(716.0, 187.99999999999997)
+bp 20:02:08      pressed :view :Mata Pencaharian
+td 20:02:12      touched on :(1170.0, 154.0)
+bp 20:02:12      pressed :view :Struktur Umur
+td 20:02:13      touched on :(719.0, 143.99999999999997)
+bp 20:02:13      pressed :view :Mata Pencaharian
+.. 20:02:13      .
+td 20:02:13      touched on :(840.0, 171.0)
+bp 20:02:13      pressed :view :Pemeluk Agama
+td 20:02:17      touched on :(1013.0, 173.00000000000003)
+bp 20:02:17      pressed :view :Pendidikan
+.. 20:02:23      .
+td 20:02:27      touched on :(1480.0, 1057.0)
+bp 20:02:27      pressed :Menu Utama
+
+sc 20:02:27 -- :Menu Utama --
+td 20:02:29      touched on :(1609.0, 325.99999999999994)
+tu 20:02:29      -> up after 0.288 s on :(1609.0, 325.99999999999994)
+bp 20:02:29      pressed :Rumah Kita
+.. 20:02:33      .
+.. 20:02:43      .

@@ -1,0 +1,1926 @@
+
+as 19:36:41 ---- APP STARTED ---
+
+sc 19:36:41 -- :Menu Utama --
+.. 19:36:51      .
+.. 19:37:01      .
+td 19:37:05      touched on :(1616.0, 347.0)
+bp 19:37:05      pressed :Rumah Kita
+td 19:37:07      touched on :(645.0, 629.0000000000001)
+.. 19:37:11      .
+td 19:37:13      touched on :(1595.0, 317.99999999999994)
+bp 19:37:13      pressed :Rumah Kita
+td 19:37:15      touched on :(1106.0, 557.0)
+tu 19:37:19      -> up after 4.017 s on :(1106.0, 535.0)
+bp 19:37:19      pressed :Info Tematik
+
+sc 19:37:19 -- :Info Tematik --
+td 19:37:19      touched on :(1324.0, 534.0)
+tu 19:37:20      -> up after 0.552 s on :(1260.0, 547.0)
+.. 19:37:21      .
+td 19:37:22      touched on :(1380.0, 1038.0)
+bp 19:37:22      pressed :Menu Utama
+
+sc 19:37:22 -- :Menu Utama --
+td 19:37:27      touched on :(876.0, 805.0)
+td 19:37:28      touched on :(1542.0, 335.00000000000006)
+bp 19:37:28      pressed :Rumah Kita
+.. 19:37:31      .
+td 19:37:39      touched on :(697.0, 933.0)
+.. 19:37:41      .
+td 19:37:41      touched on :(1579.0, 323.0)
+bp 19:37:41      pressed :Rumah Kita
+td 19:37:42      touched on :(1221.0, 725.0)
+bp 19:37:42      pressed :Info Tematik
+
+sc 19:37:42 -- :Info Tematik --
+td 19:37:45      touched on :(422.0, 774.0)
+bp 19:37:45      pressed :open e-book :AirTanah
+td 19:37:46      touched on :(866.0, 729.0)
+td 19:37:46      touched on :(1009.0, 278.99999999999994)
+td 19:37:46      touched on :(697.0, 557.0)
+tu 19:37:46      -> up after 0.224 s on :(987.9999999999999, 371.00000000000006)
+td 19:37:47      touched on :(913.0, 552.0)
+td 19:37:47      touched on :(944.0, 358.0)
+tu 19:37:47      -> up after 0.447 s on :(811.0, 748.0000000000001)
+td 19:37:47      touched on :(959.0, 623.0)
+td 19:37:47      touched on :(1033.0, 349.00000000000006)
+tu 19:37:48      -> up after 0.3 s on :(1050.0, 324.00000000000006)
+td 19:37:49      touched on :(1773.0, 107.99999999999997)
+bp 19:37:49      pressed :zoom in to :1
+td 19:37:50      touched on :(1781.0, 154.0)
+.. 19:37:51      .
+td 19:37:51      touched on :(1798.0, 91.99999999999996)
+bp 19:37:51      pressed :zoom in to :2
+td 19:37:51      touched on :(1682.0, 98.00000000000006)
+bp 19:37:51      pressed :zoom out to :1
+td 19:37:51      touched on :(1659.0, 118.00000000000001)
+bp 19:37:52      pressed :zoom out to :0
+td 19:37:52      touched on :(1809.0, 115.00000000000003)
+bp 19:37:52      pressed :zoom in to :1
+td 19:37:53      touched on :(1819.0, 101.00000000000004)
+bp 19:37:53      pressed :zoom in to :2
+td 19:37:53      touched on :(1817.0, 102.99999999999996)
+td 19:37:53      touched on :(1796.0, 523.0)
+bp 19:37:53      pressed :next page to :1
+td 19:37:55      touched on :(1178.0, 466.0)
+td 19:37:55      touched on :(1322.0, 369.0)
+td 19:37:56      touched on :(1789.0, 503.00000000000006)
+bp 19:37:57      pressed :next page to :2
+td 19:37:57      touched on :(1331.0, 342.99999999999994)
+tu 19:37:58      -> up after 0.223 s on :(1337.0, 477.0)
+td 19:37:59      touched on :(1315.0, 385.00000000000006)
+tu 19:37:59      -> up after 0.23 s on :(1365.0, 206.99999999999997)
+.. 19:38:01      .
+td 19:38:01      touched on :(1671.0, 124.99999999999996)
+bp 19:38:02      pressed :zoom out to :1
+td 19:38:02      touched on :(1681.0, 116.99999999999994)
+bp 19:38:02      pressed :zoom out to :0
+td 19:38:02      touched on :(1675.0, 120.00000000000006)
+td 19:38:05      touched on :(1768.0, 531.0)
+bp 19:38:05      pressed :next page to :3
+td 19:38:06      touched on :(1767.0, 516.0)
+bp 19:38:06      pressed :next page to :4
+td 19:38:07      touched on :(1793.0, 529.0)
+bp 19:38:08      pressed :next page to :5
+.. 19:38:11      .
+td 19:38:16      touched on :(1789.0, 502.0)
+bp 19:38:17      pressed :next page to :6
+.. 19:38:21      .
+td 19:38:24      touched on :(1824.0, 524.0)
+bp 19:38:25      pressed :next page to :7
+td 19:38:27      touched on :(1772.0, 467.00000000000006)
+bp 19:38:27      pressed :next page to :8
+td 19:38:29      touched on :(1778.0, 460.0)
+bp 19:38:30      pressed :next page to :9
+.. 19:38:31      .
+td 19:38:31      touched on :(1766.0, 467.00000000000006)
+bp 19:38:31      pressed :next page to :10
+td 19:38:31      touched on :(1777.0, 452.99999999999994)
+bp 19:38:32      pressed :next page to :11
+td 19:38:32      touched on :(1775.0, 449.0)
+bp 19:38:32      pressed :next page to :12
+td 19:38:32      touched on :(1761.0, 463.0)
+bp 19:38:32      pressed :next page to :13
+td 19:38:32      touched on :(1802.0, 849.0)
+bp 19:38:32      pressed :close e-book
+td 19:38:38      touched on :(1448.0, 1034.0)
+bp 19:38:38      pressed :Menu Utama
+
+sc 19:38:38 -- :Menu Utama --
+td 19:38:40      touched on :(1142.0, 297.0)
+bp 19:38:40      pressed :Sadang Serang Interaktif
+.. 19:38:41      .
+td 19:38:43      touched on :(985.0000000000001, 745.0000000000001)
+bp 19:38:43      pressed :Peta Interaktif - Sadang Serang
+
+sc 19:38:43 -- :Peta Interaktif - Sadang Serang --
+td 19:38:50      touched on :(769.0, 189.00000000000006)
+bp 19:38:50      pressed :zoom in to :1
+.. 19:38:51      .
+td 19:38:51      touched on :(809.0, 198.99999999999997)
+bp 19:38:52      pressed :zoom in to :2
+td 19:38:54      touched on :(1235.0, 522.0)
+tu 19:38:54      -> up after 0.211 s on :(923.0, 518.0)
+td 19:38:54      touched on :(414.0, 664.0)
+tu 19:38:54      -> up after 0.217 s on :(804.0, 481.00000000000006)
+td 19:38:55      touched on :(834.0, 697.0)
+td 19:38:56      touched on :(557.0, 570.0)
+td 19:38:57      touched on :(1044.0, 535.0)
+td 19:38:57      touched on :(1180.0, 379.00000000000006)
+td 19:38:58      touched on :(1252.0, 311.0)
+td 19:38:59      touched on :(968.0, 412.00000000000006)
+td 19:38:59      touched on :(1095.0, 302.00000000000006)
+td 19:39:00      touched on :(1102.0, 310.00000000000006)
+td 19:39:00      touched on :(1116.0, 299.00000000000006)
+.. 19:39:01      .
+td 19:39:01      touched on :(1121.0, 206.99999999999997)
+td 19:39:02      touched on :(922.0, 176.99999999999997)
+bp 19:39:02      pressed :zoom out to :1
+td 19:39:02      touched on :(934.0, 190.0)
+bp 19:39:03      pressed :zoom out to :0
+td 19:39:03      touched on :(1173.0, 236.00000000000003)
+td 19:39:04      touched on :(911.0, 170.00000000000003)
+td 19:39:05      touched on :(808.0, 386.0)
+td 19:39:06      touched on :(815.0, 411.0)
+td 19:39:07      touched on :(845.0, 401.00000000000006)
+td 19:39:08      touched on :(168.0, 173.99999999999997)
+bp 19:39:08      pressed :view :jalan
+td 19:39:10      touched on :(784.0, 173.99999999999997)
+bp 19:39:10      pressed :zoom in to :1
+.. 19:39:11      .
+td 19:39:11      touched on :(1135.0, 349.00000000000006)
+tu 19:39:11      -> up after 0.437 s on :(645.0, 619.0)
+td 19:39:12      touched on :(804.0, 557.0)
+tu 19:39:12      -> up after 0.39 s on :(796.0, 445.00000000000006)
+td 19:39:13      touched on :(786.0, 162.99999999999997)
+bp 19:39:13      pressed :zoom in to :2
+td 19:39:15      touched on :(848.0, 459.00000000000006)
+tu 19:39:15      -> up after 0.32 s on :(679.0, 369.0)
+td 19:39:15      touched on :(822.0, 401.00000000000006)
+tu 19:39:16      -> up after 0.348 s on :(861.0, 262.99999999999994)
+td 19:39:16      touched on :(701.0, 455.0)
+tu 19:39:17      -> up after 0.291 s on :(779.0, 341.0)
+td 19:39:17      touched on :(855.0, 394.99999999999994)
+tu 19:39:17      -> up after 0.207 s on :(799.0, 375.99999999999994)
+td 19:39:18      touched on :(783.0, 408.0)
+tu 19:39:18      -> up after 0.207 s on :(809.0, 319.0)
+td 19:39:19      touched on :(875.0, 405.99999999999994)
+tu 19:39:19      -> up after 0.273 s on :(806.0, 424.99999999999994)
+td 19:39:19      touched on :(900.0, 386.0)
+tu 19:39:19      -> up after 0.241 s on :(773.0, 449.0)
+td 19:39:20      touched on :(923.0, 369.99999999999994)
+td 19:39:20      touched on :(671.0, 408.0)
+.. 19:39:21      .
+td 19:39:21      touched on :(676.0, 386.0)
+td 19:39:22      touched on :(324.0, 193.0)
+bp 19:39:22      pressed :view :air bersih
+td 19:39:23      touched on :(892.0, 479.0)
+td 19:39:24      touched on :(818.0, 487.0)
+td 19:39:24      touched on :(912.0, 377.0)
+td 19:39:25      touched on :(921.0, 369.99999999999994)
+td 19:39:25      touched on :(927.0, 424.0)
+td 19:39:26      touched on :(1017.0, 310.00000000000006)
+td 19:39:27      touched on :(1042.0, 317.0)
+td 19:39:27      touched on :(917.0, 386.99999999999994)
+tu 19:39:28      -> up after 0.391 s on :(939.0, 325.99999999999994)
+td 19:39:28      touched on :(964.0, 345.0)
+tu 19:39:28      -> up after 0.307 s on :(834.0, 322.0)
+td 19:39:29      touched on :(871.0, 390.00000000000006)
+td 19:39:29      touched on :(860.0, 404.00000000000006)
+td 19:39:30      touched on :(795.0, 391.0)
+tu 19:39:31      -> up after 0.658 s on :(727.0, 397.99999999999994)
+.. 19:39:31      .
+td 19:39:31      touched on :(660.0, 385.00000000000006)
+td 19:39:32      touched on :(694.0, 364.0)
+td 19:39:33      touched on :(728.0, 336.99999999999994)
+td 19:39:33      touched on :(823.0, 336.99999999999994)
+td 19:39:34      touched on :(773.0, 344.0)
+td 19:39:37      touched on :(810.0, 342.0)
+td 19:39:38      touched on :(1028.0, 195.00000000000003)
+.. 19:39:41      .
+td 19:39:42      touched on :(776.0, 190.99999999999997)
+td 19:39:43      touched on :(778.0, 197.00000000000006)
+td 19:39:44      touched on :(770.0, 179.0)
+td 19:39:44      touched on :(771.0, 179.0)
+td 19:39:44      touched on :(944.0, 167.00000000000006)
+bp 19:39:44      pressed :zoom out to :1
+td 19:39:44      touched on :(943.0, 171.99999999999994)
+bp 19:39:45      pressed :zoom out to :0
+td 19:39:45      touched on :(942.0, 179.99999999999997)
+td 19:39:45      touched on :(929.0, 182.0)
+td 19:39:45      touched on :(929.0, 187.99999999999997)
+td 19:39:47      touched on :(770.0, 190.99999999999997)
+bp 19:39:48      pressed :zoom in to :1
+td 19:39:48      touched on :(774.0, 187.99999999999997)
+bp 19:39:48      pressed :zoom in to :2
+td 19:39:48      touched on :(775.0, 190.99999999999997)
+td 19:39:48      touched on :(782.0, 187.00000000000003)
+td 19:39:49      touched on :(591.0, 382.00000000000006)
+td 19:39:50      touched on :(574.0, 388.0)
+td 19:39:51      touched on :(606.0, 433.0)
+.. 19:39:51      .
+td 19:39:52      touched on :(658.0, 413.99999999999994)
+tu 19:39:52      -> up after 0.344 s on :(788.0, 426.00000000000006)
+td 19:39:53      touched on :(869.0, 407.00000000000006)
+td 19:39:54      touched on :(897.0, 419.99999999999994)
+tu 19:39:55      -> up after 0.7 s on :(799.0, 391.99999999999994)
+td 19:39:55      touched on :(795.0, 448.00000000000006)
+td 19:39:56      touched on :(792.0, 435.0)
+td 19:39:56      touched on :(802.0, 444.0)
+td 19:39:57      touched on :(807.0, 427.0)
+tu 19:39:57      -> up after 0.255 s on :(767.0, 391.99999999999994)
+td 19:39:58      touched on :(681.0, 357.00000000000006)
+td 19:39:59      touched on :(703.0, 361.99999999999994)
+td 19:39:59      touched on :(1019.0, 321.00000000000006)
+td 19:40:00      touched on :(955.0, 378.0)
+td 19:40:00      touched on :(747.0, 419.99999999999994)
+.. 19:40:01      .
+td 19:40:01      touched on :(703.0, 426.00000000000006)
+td 19:40:01      touched on :(703.0, 378.0)
+td 19:40:06      touched on :(333.0, 178.00000000000006)
+bp 19:40:06      pressed :close :air bersih
+td 19:40:10      touched on :(467.0, 187.00000000000003)
+bp 19:40:10      pressed :view :gorong-gorong
+.. 19:40:11      .
+td 19:40:12      touched on :(680.0, 534.0)
+td 19:40:16      touched on :(416.0, 689.0)
+td 19:40:16      touched on :(291.0, 685.0)
+.. 19:40:21      .
+td 19:40:21      touched on :(462.0, 181.00000000000003)
+bp 19:40:21      pressed :close :gorong-gorong
+td 19:40:21      touched on :(653.0, 178.00000000000006)
+bp 19:40:21      pressed :view :sarana
+td 19:40:22      touched on :(660.0, 302.00000000000006)
+td 19:40:23      touched on :(930.0, 198.00000000000003)
+bp 19:40:24      pressed :zoom out to :1
+td 19:40:24      touched on :(914.0, 176.99999999999997)
+bp 19:40:25      pressed :zoom out to :0
+td 19:40:27      touched on :(636.0, 264.0)
+tu 19:40:27      -> up after 0.202 s on :(634.0, 267.0)
+td 19:40:27      touched on :(687.0, 276.0)
+td 19:40:28      touched on :(691.0, 261.00000000000006)
+td 19:40:29      touched on :(683.0, 273.99999999999994)
+td 19:40:29      touched on :(663.0, 280.00000000000006)
+td 19:40:29      touched on :(671.0, 270.0)
+td 19:40:29      touched on :(671.0, 277.00000000000006)
+td 19:40:30      touched on :(681.0, 284.0)
+td 19:40:30      touched on :(677.0, 280.00000000000006)
+td 19:40:30      touched on :(686.0, 277.00000000000006)
+td 19:40:30      touched on :(681.0, 277.00000000000006)
+td 19:40:30      touched on :(682.0, 281.0)
+td 19:40:30      touched on :(678.0, 278.0)
+td 19:40:31      touched on :(677.0, 277.00000000000006)
+.. 19:40:31      .
+td 19:40:31      touched on :(679.0, 278.99999999999994)
+td 19:40:31      touched on :(677.0, 278.99999999999994)
+tu 19:40:31      -> up after 0.305 s on :(678.0, 280.00000000000006)
+td 19:40:35      touched on :(1605.0, 467.00000000000006)
+.. 19:40:41      .
+td 19:40:42      touched on :(1528.0, 438.0)
+.. 19:40:51      .
+td 19:40:57      touched on :(817.0, 299.00000000000006)
+td 19:40:57      touched on :(812.0, 300.99999999999994)
+td 19:40:57      touched on :(809.0, 297.0)
+td 19:40:58      touched on :(810.0, 294.00000000000006)
+td 19:40:58      touched on :(848.0, 259.0)
+td 19:40:59      touched on :(1086.0, 651.9999999999999)
+td 19:40:59      touched on :(983.9999999999999, 653.0)
+td 19:40:59      touched on :(1005.0, 695.9999999999999)
+td 19:41:00      touched on :(1180.0, 629.0000000000001)
+td 19:41:00      touched on :(998.9999999999999, 676.9999999999999)
+.. 19:41:01      .
+td 19:41:02      touched on :(756.0, 146.0)
+bp 19:41:02      pressed :zoom in to :1
+td 19:41:03      touched on :(920.0, 171.99999999999994)
+bp 19:41:03      pressed :zoom out to :0
+td 19:41:09      touched on :(605.0, 193.0)
+bp 19:41:09      pressed :close :sarana
+td 19:41:09      touched on :(465.0, 186.00000000000006)
+bp 19:41:09      pressed :view :gorong-gorong
+td 19:41:10      touched on :(471.0, 179.99999999999997)
+bp 19:41:10      pressed :close :gorong-gorong
+td 19:41:10      touched on :(626.0, 187.99999999999997)
+bp 19:41:10      pressed :view :sarana
+.. 19:41:11      .
+td 19:41:11      touched on :(626.0, 197.00000000000006)
+bp 19:41:11      pressed :close :sarana
+td 19:41:11      touched on :(633.0, 179.99999999999997)
+bp 19:41:11      pressed :view :sarana
+td 19:41:12      touched on :(633.0, 179.0)
+bp 19:41:12      pressed :close :sarana
+td 19:41:13      touched on :(636.0, 181.00000000000003)
+bp 19:41:13      pressed :view :sarana
+td 19:41:14      touched on :(635.0, 182.99999999999994)
+bp 19:41:14      pressed :close :sarana
+td 19:41:15      touched on :(641.0, 190.0)
+bp 19:41:15      pressed :view :sarana
+td 19:41:15      touched on :(640.0, 178.00000000000006)
+bp 19:41:15      pressed :close :sarana
+td 19:41:15      touched on :(636.0, 178.00000000000006)
+bp 19:41:16      pressed :view :sarana
+td 19:41:16      touched on :(635.0, 182.99999999999994)
+bp 19:41:16      pressed :close :sarana
+td 19:41:16      touched on :(630.0, 182.0)
+bp 19:41:16      pressed :view :sarana
+td 19:41:16      touched on :(628.0, 190.0)
+bp 19:41:16      pressed :close :sarana
+td 19:41:16      touched on :(630.0, 189.00000000000006)
+bp 19:41:17      pressed :view :sarana
+td 19:41:17      touched on :(637.0, 193.99999999999994)
+bp 19:41:17      pressed :close :sarana
+td 19:41:17      touched on :(635.0, 193.0)
+bp 19:41:17      pressed :view :sarana
+td 19:41:17      touched on :(637.0, 190.99999999999997)
+bp 19:41:17      pressed :close :sarana
+td 19:41:17      touched on :(632.0, 193.0)
+bp 19:41:17      pressed :view :sarana
+td 19:41:18      touched on :(631.0, 197.00000000000006)
+bp 19:41:18      pressed :close :sarana
+td 19:41:18      touched on :(628.0, 193.0)
+bp 19:41:18      pressed :view :sarana
+td 19:41:18      touched on :(628.0, 201.99999999999997)
+bp 19:41:18      pressed :close :sarana
+td 19:41:18      touched on :(635.0, 201.99999999999997)
+bp 19:41:18      pressed :view :sarana
+td 19:41:18      touched on :(636.0, 204.99999999999994)
+bp 19:41:18      pressed :close :sarana
+td 19:41:19      touched on :(643.0, 211.00000000000006)
+bp 19:41:19      pressed :view :sarana
+td 19:41:19      touched on :(641.0, 211.00000000000006)
+bp 19:41:19      pressed :close :sarana
+td 19:41:19      touched on :(647.0, 215.0)
+bp 19:41:19      pressed :view :sarana
+td 19:41:19      touched on :(640.0, 215.0)
+bp 19:41:19      pressed :close :sarana
+td 19:41:19      touched on :(645.0, 211.00000000000006)
+bp 19:41:20      pressed :view :sarana
+td 19:41:20      touched on :(642.0, 212.0)
+bp 19:41:20      pressed :close :sarana
+td 19:41:20      touched on :(642.0, 214.00000000000003)
+bp 19:41:20      pressed :view :sarana
+td 19:41:20      touched on :(634.0, 206.99999999999997)
+bp 19:41:20      pressed :close :sarana
+.. 19:41:21      .
+td 19:41:21      touched on :(489.0, 176.99999999999997)
+bp 19:41:21      pressed :view :gorong-gorong
+td 19:41:22      touched on :(491.99999999999994, 189.00000000000006)
+bp 19:41:22      pressed :close :gorong-gorong
+td 19:41:22      touched on :(487.0, 201.0)
+bp 19:41:22      pressed :view :gorong-gorong
+td 19:41:22      touched on :(489.99999999999994, 190.0)
+bp 19:41:22      pressed :close :gorong-gorong
+td 19:41:22      touched on :(487.0, 178.00000000000006)
+bp 19:41:23      pressed :view :gorong-gorong
+td 19:41:23      touched on :(628.0, 173.99999999999997)
+bp 19:41:23      pressed :view :sarana
+td 19:41:24      touched on :(333.0, 176.99999999999997)
+bp 19:41:24      pressed :view :air bersih
+td 19:41:24      touched on :(236.0, 215.99999999999994)
+bp 19:41:24      pressed :close :jalan
+td 19:41:25      touched on :(216.0, 218.99999999999994)
+td 19:41:27      touched on :(231.0, 193.99999999999994)
+bp 19:41:27      pressed :view :jalan
+.. 19:41:31      .
+td 19:41:35      touched on :(630.0, 176.0)
+bp 19:41:35      pressed :close :sarana
+td 19:41:36      touched on :(619.0, 182.99999999999994)
+bp 19:41:36      pressed :view :sarana
+td 19:41:40      touched on :(412.0, 270.0)
+.. 19:41:41      .
+td 19:41:46      touched on :(189.0, 203.00000000000003)
+bp 19:41:46      pressed :close :jalan
+td 19:41:47      touched on :(342.0, 200.00000000000006)
+bp 19:41:47      pressed :close :air bersih
+td 19:41:47      touched on :(558.0, 175.00000000000006)
+bp 19:41:47      pressed :close :sarana
+td 19:41:47      touched on :(499.0, 182.0)
+bp 19:41:47      pressed :close :gorong-gorong
+.. 19:41:51      .
+.. 19:42:01      .
+td 19:42:03      touched on :(1565.0, 863.0)
+td 19:42:08      touched on :(179.0, 168.99999999999997)
+bp 19:42:08      pressed :view :jalan
+td 19:42:09      touched on :(194.0, 198.99999999999997)
+bp 19:42:09      pressed :close :jalan
+td 19:42:09      touched on :(187.0, 195.00000000000003)
+bp 19:42:09      pressed :view :jalan
+td 19:42:10      touched on :(201.0, 182.0)
+bp 19:42:10      pressed :close :jalan
+td 19:42:10      touched on :(203.0, 197.00000000000006)
+bp 19:42:10      pressed :view :jalan
+.. 19:42:11      .
+td 19:42:12      touched on :(195.0, 201.99999999999997)
+bp 19:42:12      pressed :close :jalan
+td 19:42:12      touched on :(475.0, 187.99999999999997)
+bp 19:42:12      pressed :view :gorong-gorong
+.. 19:42:21      .
+.. 19:42:31      .
+td 19:42:34      touched on :(471.0, 165.0)
+bp 19:42:34      pressed :close :gorong-gorong
+td 19:42:35      touched on :(346.0, 187.00000000000003)
+bp 19:42:35      pressed :view :air bersih
+.. 19:42:41      .
+td 19:42:49      touched on :(521.0, 426.00000000000006)
+.. 19:42:51      .
+.. 19:43:01      .
+td 19:43:04      touched on :(638.0, 179.0)
+bp 19:43:04      pressed :view :sarana
+td 19:43:09      touched on :(1472.0, 642.0)
+tu 19:43:10      -> up after 0.315 s on :(1529.0, 427.0)
+.. 19:43:11      .
+td 19:43:11      touched on :(1446.0, 687.0)
+td 19:43:11      touched on :(1446.0, 485.0)
+tu 19:43:11      -> up after 0.226 s on :(1400.0, 748.0000000000001)
+.. 19:43:21      .
+.. 19:43:31      .
+td 19:43:34      touched on :(1489.0, 547.0)
+td 19:43:35      touched on :(1482.0, 596.0)
+td 19:43:35      touched on :(1484.0, 603.0)
+tu 19:43:35      -> up after 0.319 s on :(1483.0, 603.0)
+td 19:43:37      touched on :(749.0, 203.00000000000003)
+bp 19:43:37      pressed :zoom in to :1
+td 19:43:37      touched on :(742.0, 192.00000000000003)
+bp 19:43:37      pressed :zoom in to :2
+td 19:43:37      touched on :(756.0, 173.99999999999997)
+td 19:43:38      touched on :(1199.0, 673.0000000000001)
+tu 19:43:38      -> up after 0.209 s on :(1057.0, 474.0)
+td 19:43:39      touched on :(1139.0, 496.0)
+td 19:43:39      touched on :(1143.0, 368.00000000000006)
+.. 19:43:41      .
+td 19:43:41      touched on :(1463.0, 607.0000000000001)
+td 19:43:41      touched on :(1288.0, 451.00000000000006)
+tu 19:43:42      -> up after 0.427 s on :(1111.0, 393.00000000000006)
+td 19:43:42      touched on :(1229.0, 336.0)
+tu 19:43:42      -> up after 0.293 s on :(1107.0, 339.99999999999994)
+td 19:43:43      touched on :(1158.0, 342.0)
+tu 19:43:43      -> up after 0.468 s on :(1100.0, 333.0)
+td 19:43:44      touched on :(1171.0, 335.00000000000006)
+tu 19:43:44      -> up after 0.204 s on :(1147.0, 408.0)
+td 19:43:44      touched on :(1089.0, 441.0)
+tu 19:43:44      -> up after 0.363 s on :(1116.0, 416.0)
+td 19:43:45      touched on :(1011.0000000000001, 565.0)
+td 19:43:45      touched on :(1015.0000000000001, 565.0)
+td 19:43:45      touched on :(1013.0, 566.0000000000001)
+td 19:43:45      touched on :(1009.0, 560.9999999999999)
+td 19:43:46      touched on :(1019.0, 559.0)
+td 19:43:46      touched on :(1013.0, 557.9999999999999)
+tu 19:43:49      -> up after 2.928 s on :(1035.0, 539.0)
+td 19:43:50      touched on :(827.0, 682.0)
+td 19:43:50      touched on :(663.0, 783.9999999999999)
+tu 19:43:51      -> up after 0.531 s on :(729.0, 778.0)
+td 19:43:51      touched on :(759.0, 934.0)
+.. 19:43:51      .
+tu 19:43:52      -> up after 0.96 s on :(820.0, 753.0)
+td 19:43:52      touched on :(737.0, 668.0)
+td 19:43:52      touched on :(924.0, 727.0)
+tu 19:43:53      -> up after 0.227 s on :(924.0, 692.0)
+td 19:43:54      touched on :(936.0, 200.00000000000006)
+bp 19:43:54      pressed :zoom out to :1
+td 19:43:54      touched on :(918.0, 190.0)
+bp 19:43:54      pressed :zoom out to :0
+td 19:43:59      touched on :(910.0, 179.0)
+td 19:44:00      touched on :(920.0, 186.00000000000006)
+.. 19:44:01      .
+td 19:44:06      touched on :(920.0, 193.0)
+td 19:44:07      touched on :(938.0, 176.0)
+td 19:44:07      touched on :(934.0, 179.99999999999997)
+td 19:44:07      touched on :(939.0, 164.00000000000006)
+td 19:44:07      touched on :(939.0, 171.0)
+td 19:44:08      touched on :(758.0, 190.99999999999997)
+bp 19:44:08      pressed :zoom in to :1
+td 19:44:09      touched on :(916.0, 176.99999999999997)
+bp 19:44:09      pressed :zoom out to :0
+td 19:44:09      touched on :(913.0, 173.00000000000003)
+td 19:44:09      touched on :(924.0, 173.99999999999997)
+.. 19:44:11      .
+td 19:44:12      touched on :(878.0, 364.0)
+tu 19:44:12      -> up after 0.219 s on :(890.0, 411.0)
+td 19:44:13      touched on :(768.0, 297.0)
+td 19:44:14      touched on :(773.0, 289.0)
+td 19:44:14      touched on :(777.0, 291.00000000000006)
+td 19:44:14      touched on :(784.0, 295.0)
+td 19:44:19      touched on :(810.0, 294.00000000000006)
+td 19:44:20      touched on :(1048.0, 614.0)
+.. 19:44:21      .
+.. 19:44:31      .
+.. 19:44:41      .
+td 19:44:48      touched on :(1404.0, 1010.0)
+bp 19:44:48      pressed :Menu Utama
+
+sc 19:44:48 -- :Menu Utama --
+.. 19:44:51      .
+td 19:44:55      touched on :(1566.0, 360.00000000000006)
+bp 19:44:55      pressed :Rumah Kita
+td 19:44:56      touched on :(1592.0, 712.0)
+bp 19:44:56      pressed :Info Perkembangan Rumah
+
+sc 19:44:56 -- :Info Perkembangan Rumah --
+td 19:44:59      touched on :(463.0, 793.0)
+bp 19:44:59      pressed :open album :Album 1
+.. 19:45:01      .
+td 19:45:04      touched on :(776.0, 383.99999999999994)
+bp 19:45:04      pressed :open photo :DSCN6002.JPG
+.. 19:45:11      .
+.. 19:45:21      .
+td 19:45:27      touched on :(875.0, 503.00000000000006)
+td 19:45:27      touched on :(643.0, 74.00000000000001)
+.. 19:45:31      .
+.. 19:45:41      .
+.. 19:45:51      .
+td 19:45:57      touched on :(343.0, 265.0)
+
+as 19:46:08 ---- APP STARTED ---
+
+sc 19:46:08 -- :Menu Utama --
+.. 19:46:18      .
+td 19:46:19      touched on :(1628.0, 328.99999999999994)
+bp 19:46:19      pressed :Rumah Kita
+td 19:46:20      touched on :(1646.0, 709.0)
+bp 19:46:20      pressed :Info Perkembangan Rumah
+
+sc 19:46:20 -- :Info Perkembangan Rumah --
+td 19:46:21      touched on :(791.0, 852.9999999999999)
+bp 19:46:21      pressed :open album :Album 2
+td 19:46:25      touched on :(740.0, 336.99999999999994)
+bp 19:46:25      pressed :open photo :DSCN6016.JPG
+td 19:46:26      touched on :(1815.0, 173.00000000000003)
+td 19:46:26      touched on :(1826.0, 104.00000000000003)
+bp 19:46:26      pressed :zoom in to :1
+td 19:46:27      touched on :(1824.0, 105.99999999999994)
+bp 19:46:27      pressed :zoom in to :2
+td 19:46:27      touched on :(1804.0, 107.99999999999997)
+td 19:46:27      touched on :(1803.0, 137.00000000000003)
+td 19:46:27      touched on :(1810.0, 135.99999999999994)
+td 19:46:27      touched on :(1810.0, 138.0)
+.. 19:46:28      .
+td 19:46:28      touched on :(1827.0, 126.99999999999999)
+td 19:46:28      touched on :(1827.0, 126.99999999999999)
+td 19:46:29      touched on :(1815.0, 124.99999999999996)
+td 19:46:29      touched on :(1821.0, 138.99999999999994)
+td 19:46:29      touched on :(1814.0, 143.99999999999997)
+td 19:46:29      touched on :(1811.0, 143.0)
+td 19:46:29      touched on :(1822.0, 116.99999999999994)
+td 19:46:29      touched on :(1823.0, 124.0)
+td 19:46:30      touched on :(1831.0, 115.99999999999999)
+td 19:46:30      touched on :(1823.0, 135.0)
+td 19:46:30      touched on :(1815.0, 149.99999999999994)
+td 19:46:30      touched on :(1810.0, 131.00000000000006)
+td 19:46:30      touched on :(1805.0, 149.0)
+td 19:46:30      touched on :(1806.0, 142.00000000000006)
+td 19:46:31      touched on :(1817.0, 138.99999999999994)
+td 19:46:31      touched on :(1084.0, 283.00000000000006)
+tu 19:46:31      -> up after 0.214 s on :(1096.0, 443.0)
+td 19:46:32      touched on :(1107.0, 383.99999999999994)
+td 19:46:32      touched on :(856.0, 742.0000000000001)
+tu 19:46:33      -> up after 0.341 s on :(1087.0, 416.99999999999994)
+td 19:46:33      touched on :(1181.0, 286.0)
+td 19:46:33      touched on :(942.0, 607.9999999999999)
+td 19:46:37      touched on :(1640.0, 115.00000000000003)
+bp 19:46:37      pressed :zoom out to :1
+td 19:46:37      touched on :(1647.0, 127.99999999999994)
+bp 19:46:37      pressed :zoom out to :0
+td 19:46:38      touched on :(1650.0, 126.99999999999999)
+.. 19:46:38      .
+td 19:46:38      touched on :(1651.0, 131.00000000000006)
+td 19:46:38      touched on :(1647.0, 148.00000000000003)
+td 19:46:38      touched on :(1660.0, 134.00000000000006)
+td 19:46:38      touched on :(1662.0, 135.0)
+td 19:46:38      touched on :(1665.0, 135.0)
+td 19:46:39      touched on :(1772.0, 514.0)
+bp 19:46:39      pressed :next photo to :5
+td 19:46:41      touched on :(956.0, 591.0000000000001)
+td 19:46:42      touched on :(1800.0, 118.99999999999997)
+bp 19:46:42      pressed :zoom in to :1
+td 19:46:42      touched on :(1805.0, 113.99999999999996)
+bp 19:46:42      pressed :zoom in to :2
+td 19:46:42      touched on :(1805.0, 93.99999999999999)
+td 19:46:42      touched on :(1819.0, 88.0)
+td 19:46:43      touched on :(1819.0, 96.00000000000001)
+td 19:46:43      touched on :(1817.0, 93.99999999999999)
+td 19:46:43      touched on :(1814.0, 99.99999999999997)
+td 19:46:43      touched on :(1812.0, 109.00000000000006)
+td 19:46:43      touched on :(1813.0, 113.99999999999996)
+td 19:46:43      touched on :(1813.0, 118.99999999999997)
+td 19:46:44      touched on :(1808.0, 131.00000000000006)
+td 19:46:44      touched on :(1810.0, 113.99999999999996)
+td 19:46:44      touched on :(1120.0, 619.0)
+td 19:46:47      touched on :(1054.0, 220.99999999999997)
+tu 19:46:47      -> up after 0.621 s on :(908.0, 184.99999999999997)
+.. 19:46:48      .
+td 19:46:49      touched on :(919.0, 240.0)
+td 19:46:49      touched on :(953.0, 153.00000000000006)
+td 19:46:53      touched on :(1739.0, 878.0)
+bp 19:46:53      pressed :close photo
+td 19:46:54      touched on :(1467.0, 833.0)
+bp 19:46:55      pressed :open photo :DSCN6013.JPG
+.. 19:46:58      .
+td 19:47:01      touched on :(1123.0, 471.0)
+tu 19:47:02      -> up after 0.533 s on :(1017.9999999999999, 466.0)
+td 19:47:02      touched on :(1111.0, 504.99999999999994)
+td 19:47:02      touched on :(1089.0, 514.0)
+td 19:47:04      touched on :(1792.0, 920.0)
+bp 19:47:05      pressed :close photo
+td 19:47:07      touched on :(1417.0, 760.0)
+bp 19:47:07      pressed :open photo :DSCN6013.JPG
+.. 19:47:08      .
+td 19:47:09      touched on :(1798.0, 874.9999999999999)
+td 19:47:09      touched on :(1800.0, 648.0)
+bp 19:47:09      pressed :close photo
+.. 19:47:18      .
+td 19:47:21      touched on :(1426.0, 1045.0)
+bp 19:47:21      pressed :Menu Utama
+
+sc 19:47:21 -- :Menu Utama --
+td 19:47:25      touched on :(1062.0, 560.0000000000001)
+td 19:47:25      touched on :(1065.0, 546.0)
+td 19:47:25      touched on :(1066.0, 534.0)
+td 19:47:25      touched on :(1065.0, 544.0000000000001)
+.. 19:47:28      .
+td 19:47:32      touched on :(964.0, 678.0)
+tu 19:47:32      -> up after 0.434 s on :(496.00000000000006, 620.0)
+td 19:47:33      touched on :(413.0, 626.9999999999999)
+tu 19:47:33      -> up after 0.204 s on :(624.0, 663.0)
+td 19:47:33      touched on :(875.0, 663.0)
+tu 19:47:33      -> up after 0.39 s on :(243.0, 595.0)
+.. 19:47:38      .
+.. 19:47:48      .
+td 19:47:55      touched on :(1364.0, 534.0)
+tu 19:47:56      -> up after 0.405 s on :(1498.0, 396.00000000000006)
+td 19:47:57      touched on :(1047.0, 541.0000000000001)
+td 19:47:58      touched on :(1060.0, 544.0000000000001)
+.. 19:47:58      .
+td 19:47:58      touched on :(1038.0, 458.0)
+td 19:47:58      touched on :(1024.0, 533.0)
+tu 19:48:00      -> up after 1.291 s on :(1031.0, 549.0)
+td 19:48:00      touched on :(1056.0, 525.0)
+tu 19:48:01      -> up after 1.158 s on :(1058.0, 521.0)
+td 19:48:01      touched on :(1071.0, 513.0)
+td 19:48:02      touched on :(1068.0, 518.0)
+tu 19:48:02      -> up after 0.674 s on :(1002.9999999999999, 477.0)
+td 19:48:02      touched on :(945.0, 469.0)
+td 19:48:03      touched on :(983.9999999999999, 527.0)
+td 19:48:03      touched on :(1066.0, 569.0)
+tu 19:48:04      -> up after 0.358 s on :(1021.0, 535.0)
+td 19:48:04      touched on :(1062.0, 556.0)
+tu 19:48:04      -> up after 0.228 s on :(1083.0, 535.0)
+td 19:48:04      touched on :(1040.0, 523.0)
+td 19:48:04      touched on :(1058.0, 556.0)
+td 19:48:04      touched on :(1081.0, 556.0)
+.. 19:48:08      .
+.. 19:48:18      .
+td 19:48:24      touched on :(849.0, 709.0)
+td 19:48:25      touched on :(708.0, 808.9999999999999)
+td 19:48:25      touched on :(1572.0, 356.0)
+bp 19:48:26      pressed :Rumah Kita
+.. 19:48:28      .
+td 19:48:28      touched on :(1178.0, 708.0)
+bp 19:48:28      pressed :Info Tematik
+
+sc 19:48:28 -- :Info Tematik --
+td 19:48:29      touched on :(1074.0, 815.0)
+bp 19:48:30      pressed :open e-book :KampungBerkebun
+.. 19:48:38      .
+td 19:48:43      touched on :(205.0, 310.00000000000006)
+td 19:48:44      touched on :(1792.0, 877.0)
+bp 19:48:44      pressed :close e-book
+td 19:48:45      touched on :(1426.0, 1051.0)
+bp 19:48:45      pressed :Menu Utama
+
+sc 19:48:45 -- :Menu Utama --
+.. 19:48:48      .
+.. 19:48:58      .
+td 19:49:00      touched on :(1143.0, 386.99999999999994)
+bp 19:49:00      pressed :Sadang Serang Interaktif
+td 19:49:01      touched on :(1011.0000000000001, 742.9999999999999)
+bp 19:49:01      pressed :Peta Interaktif - Sadang Serang
+
+sc 19:49:01 -- :Peta Interaktif - Sadang Serang --
+.. 19:49:08      .
+td 19:49:16      touched on :(922.0, 178.00000000000006)
+td 19:49:16      touched on :(935.0, 154.99999999999997)
+td 19:49:16      touched on :(929.0, 165.0)
+.. 19:49:18      .
+td 19:49:20      touched on :(1480.0, 1068.0)
+bp 19:49:20      pressed :Menu Utama
+
+sc 19:49:20 -- :Menu Utama --
+td 19:49:21      touched on :(1180.0, 347.99999999999994)
+bp 19:49:21      pressed :Sadang Serang Interaktif
+td 19:49:22      touched on :(997.0, 720.9999999999999)
+bp 19:49:22      pressed :Peta Interaktif - Sadang Serang
+
+sc 19:49:22 -- :Peta Interaktif - Sadang Serang --
+td 19:49:24      touched on :(1391.0, 1030.0)
+bp 19:49:25      pressed :Menu Utama
+
+sc 19:49:25 -- :Menu Utama --
+td 19:49:26      touched on :(1620.0, 334.0)
+bp 19:49:26      pressed :Rumah Kita
+td 19:49:27      touched on :(1221.0, 717.0)
+bp 19:49:27      pressed :Info Tematik
+
+sc 19:49:27 -- :Info Tematik --
+.. 19:49:28      .
+td 19:49:28      touched on :(1394.0, 1031.0)
+bp 19:49:28      pressed :Menu Utama
+
+sc 19:49:28 -- :Menu Utama --
+td 19:49:29      touched on :(1636.0, 325.99999999999994)
+bp 19:49:29      pressed :Rumah Kita
+td 19:49:30      touched on :(1585.0, 707.0)
+bp 19:49:30      pressed :Info Perkembangan Rumah
+
+sc 19:49:30 -- :Info Perkembangan Rumah --
+td 19:49:31      touched on :(1405.0, 1046.0)
+bp 19:49:31      pressed :Menu Utama
+
+sc 19:49:31 -- :Menu Utama --
+td 19:49:32      touched on :(758.0, 320.0)
+bp 19:49:32      pressed :Info Ngabandungan
+bp 19:49:32      pressed :close pop up
+
+sc 19:49:32 -- :Info Ngabandungan --
+.. 19:49:38      .
+td 19:49:40      touched on :(765.0, 358.99999999999994)
+td 19:49:41      touched on :(743.0, 303.99999999999994)
+td 19:49:42      touched on :(768.0, 297.0)
+bp 19:49:42      pressed :view image: https://pbs.twimg.com/media/B7OwprECEAAoV1G.jpg
+td 19:49:42      touched on :(787.0, 424.99999999999994)
+bp 19:49:42      pressed :close pop up
+td 19:49:42      touched on :(796.0, 217.99999999999997)
+bp 19:49:43      pressed :view image: https://pbs.twimg.com/media/B7OwprECEAAoV1G.jpg
+td 19:49:46      touched on :(482.0, 591.0000000000001)
+bp 19:49:46      pressed :close pop up
+.. 19:49:48      .
+td 19:49:48      touched on :(1064.0, 222.00000000000006)
+td 19:49:50      touched on :(1058.0, 255.00000000000006)
+td 19:49:51      touched on :(1097.0, 217.99999999999997)
+.. 19:49:58      .
+td 19:50:07      touched on :(1453.0, 736.9999999999999)
+bp 19:50:07      pressed :filter: @infobandung
+.. 19:50:08      .
+td 19:50:11      touched on :(1600.0, 733.0)
+bp 19:50:11      pressed :filter: @infobdg
+.. 19:50:18      .
+td 19:50:21      touched on :(1755.0, 741.0)
+bp 19:50:22      pressed :filter: @lokerbdg
+.. 19:50:28      .
+td 19:50:36      touched on :(1431.0, 372.99999999999994)
+td 19:50:37      touched on :(1414.0, 438.99999999999994)
+.. 19:50:38      .
+td 19:50:39      touched on :(1566.0, 353.99999999999994)
+td 19:50:40      touched on :(1546.0, 353.0)
+td 19:50:40      touched on :(1473.0, 347.99999999999994)
+td 19:50:41      touched on :(1408.0, 383.0)
+bp 19:50:41      pressed :filter: persib
+td 19:50:47      touched on :(1516.0, 378.0)
+bp 19:50:47      pressed :filter: #persibday
+.. 19:50:48      .
+td 19:50:52      touched on :(1060.0, 504.0)
+td 19:50:52      touched on :(1063.0, 345.0)
+td 19:50:53      touched on :(1660.0, 363.00000000000006)
+bp 19:50:53      pressed :filter: bobotoh
+.. 19:50:58      .
+td 19:50:58      touched on :(1749.0, 355.0)
+bp 19:50:58      pressed :filter: viking
+td 19:51:02      touched on :(1462.0, 813.0)
+td 19:51:03      touched on :(1482.0, 754.0)
+bp 19:51:03      pressed :filter: @persibofficial
+.. 19:51:08      .
+td 19:51:12      touched on :(1611.0, 764.0000000000001)
+bp 19:51:13      pressed :filter: @simamaung
+.. 19:51:18      .
+td 19:51:22      touched on :(381.0, 780.0)
+bp 19:51:22      pressed :view image: https://pbs.twimg.com/media/B7OozxXCcAA6zBX.jpg
+tu 19:51:23      -> up after 0.942 s on :(386.0, 781.0)
+td 19:51:23      touched on :(211.0, 548.0)
+bp 19:51:23      pressed :close pop up
+td 19:51:24      touched on :(261.0, 680.0)
+td 19:51:24      touched on :(339.0, 979.0)
+tu 19:51:24      -> up after 0.211 s on :(372.0, 827.9999999999999)
+td 19:51:24      touched on :(447.0, 1012.0)
+tu 19:51:25      -> up after 0.215 s on :(263.0, 681.0)
+td 19:51:25      touched on :(1270.0, 823.0)
+td 19:51:26      touched on :(1258.0, 445.00000000000006)
+bp 19:51:26      pressed :view image: https://pbs.twimg.com/media/B7OnRGSCAAAcn7Q.jpg
+tu 19:51:26      -> up after 0.296 s on :(1252.0, 264.0)
+td 19:51:27      touched on :(140.0, 736.9999999999999)
+bp 19:51:27      pressed :close pop up
+td 19:51:27      touched on :(1103.0, 847.0)
+bp 19:51:27      pressed :close pop up
+.. 19:51:28      .
+td 19:51:28      touched on :(1231.0, 898.0)
+td 19:51:28      touched on :(966.0000000000001, 218.99999999999994)
+tu 19:51:29      -> up after 0.475 s on :(1195.0, 24.000000000000036)
+td 19:51:31      touched on :(1020.0, 871.0)
+td 19:51:31      touched on :(957.0, 811.0)
+td 19:51:31      touched on :(1163.0, 844.0)
+tu 19:51:31      -> up after 0.209 s on :(1070.0, 372.0)
+td 19:51:32      touched on :(966.0000000000001, 803.0)
+td 19:51:32      touched on :(652.0, 732.0)
+td 19:51:32      touched on :(751.0, 811.0)
+td 19:51:32      touched on :(781.0, 342.0)
+bp 19:51:32      pressed :view web page: https://vine.co/v/ODgtDVHLrPV
+.. 19:51:38      .
+td 19:51:39      touched on :(173.0, 407.00000000000006)
+bp 19:51:39      pressed :close pop up
+td 19:51:41      touched on :(899.0, 781.0)
+td 19:51:41      touched on :(667.0, 800.0)
+td 19:51:41      touched on :(548.0, 700.0)
+tu 19:51:41      -> up after 0.222 s on :(618.0, 369.0)
+td 19:51:44      touched on :(856.0, 786.0000000000001)
+bp 19:51:44      pressed :view web page: https://vine.co/v/ODgUW2P0KEd
+.. 19:51:48      .
+td 19:51:57      touched on :(217.0, 349.00000000000006)
+bp 19:51:57      pressed :close pop up
+.. 19:51:58      .
+td 19:52:01      touched on :(809.0, 769.0)
+bp 19:52:01      pressed :view web page: https://vine.co/v/ODgUW2P0KEd
+td 19:52:18      touched on :(707.0, 504.0)
+td 19:52:18      touched on :(757.0, 457.0)
+td 19:52:18      touched on :(769.0, 457.0)
+td 19:52:18      touched on :(779.0, 438.99999999999994)
+td 19:52:18      touched on :(752.0, 449.0)
+td 19:52:18      touched on :(742.0, 455.0)
+td 19:52:18      touched on :(801.0, 366.0)
+td 19:52:18      touched on :(894.0, 347.99999999999994)
+td 19:52:18      touched on :(797.0, 445.00000000000006)
+td 19:52:18      touched on :(801.0, 446.99999999999994)
+td 19:52:18      touched on :(796.0, 438.0)
+td 19:52:18      touched on :(806.0, 415.00000000000006)
+td 19:52:18      touched on :(259.0, 726.0000000000001)
+bp 19:52:18      pressed :close pop up
+.. 19:52:19      .
+td 19:52:20      touched on :(1414.0, 1046.0)
+bp 19:52:20      pressed :Menu Utama
+
+sc 19:52:20 -- :Menu Utama --
+.. 19:52:29      .
+td 19:52:34      touched on :(762.0, 330.0)
+bp 19:52:34      pressed :Info Ngabandungan
+bp 19:52:34      pressed :close pop up
+
+sc 19:52:34 -- :Info Ngabandungan --
+td 19:52:36      touched on :(1423.0, 1073.0)
+bp 19:52:36      pressed :Menu Utama
+
+sc 19:52:36 -- :Menu Utama --
+td 19:52:37      touched on :(1185.0, 320.0)
+bp 19:52:37      pressed :Sadang Serang Interaktif
+.. 19:52:39      .
+td 19:52:39      touched on :(1415.0, 679.0000000000001)
+bp 19:52:39      pressed :Data Kependudukan
+
+sc 19:52:39 -- :Data Kependudukan --
+td 19:52:47      touched on :(637.0, 197.00000000000006)
+bp 19:52:47      pressed :view :Mata Pencaharian
+.. 19:52:49      .
+td 19:52:49      touched on :(856.0, 184.00000000000003)
+bp 19:52:49      pressed :view :Pemeluk Agama
+td 19:52:49      touched on :(1017.0, 195.99999999999997)
+bp 19:52:50      pressed :view :Pendidikan
+td 19:52:50      touched on :(1175.0, 198.00000000000003)
+bp 19:52:50      pressed :view :Struktur Umur
+td 19:52:53      touched on :(1691.0, 543.0)
+td 19:52:54      touched on :(1765.0, 549.0)
+td 19:52:54      touched on :(1792.0, 538.0)
+td 19:52:55      touched on :(340.0, 535.0)
+td 19:52:55      touched on :(1730.0, 488.99999999999994)
+td 19:52:56      touched on :(1623.0, 615.0)
+td 19:52:56      touched on :(373.0, 474.0)
+.. 19:52:59      .
+td 19:53:06      touched on :(709.0, 234.99999999999997)
+td 19:53:07      touched on :(685.0, 195.99999999999997)
+tu 19:53:07      -> up after 0.213 s on :(686.0, 195.00000000000003)
+bp 19:53:07      pressed :view :Mata Pencaharian
+td 19:53:08      touched on :(855.0, 173.99999999999997)
+tu 19:53:08      -> up after 0.288 s on :(854.0, 171.99999999999994)
+bp 19:53:08      pressed :view :Pemeluk Agama
+.. 19:53:09      .
+td 19:53:09      touched on :(844.0, 178.00000000000006)
+tu 19:53:10      -> up after 0.59 s on :(844.0, 171.99999999999994)
+bp 19:53:10      pressed :view :Pemeluk Agama
+td 19:53:11      touched on :(870.0, 190.0)
+tu 19:53:13      -> up after 2.883 s on :(875.0, 126.00000000000003)
+bp 19:53:14      pressed :view :Pemeluk Agama
+td 19:53:14      touched on :(1016.0, 189.00000000000006)
+tu 19:53:15      -> up after 0.43 s on :(1015.0000000000001, 184.99999999999997)
+bp 19:53:15      pressed :view :Pendidikan
+td 19:53:15      touched on :(1156.0, 186.00000000000006)
+tu 19:53:15      -> up after 0.286 s on :(1145.0, 190.0)
+bp 19:53:15      pressed :view :Struktur Umur
+td 19:53:16      touched on :(703.0, 192.00000000000003)
+bp 19:53:16      pressed :view :Mata Pencaharian
+td 19:53:17      touched on :(1176.0, 167.00000000000006)
+bp 19:53:17      pressed :view :Struktur Umur
+.. 19:53:19      .
+td 19:53:20      touched on :(1737.0, 664.0)
+td 19:53:21      touched on :(1761.0, 656.0)
+td 19:53:21      touched on :(1745.0, 654.9999999999999)
+td 19:53:21      touched on :(1705.0, 639.0)
+td 19:53:21      touched on :(1692.0, 629.0000000000001)
+td 19:53:22      touched on :(1712.0, 632.0000000000001)
+td 19:53:22      touched on :(1633.0, 639.0)
+.. 19:53:29      .
+.. 19:53:39      .
+td 19:53:41      touched on :(1792.0, 148.00000000000003)
+tu 19:53:42      -> up after 1.477 s on :(217.0, 198.99999999999997)
+.. 19:53:49      .
+td 19:53:53      touched on :(692.0, 181.00000000000003)
+bp 19:53:53      pressed :view :Mata Pencaharian
+td 19:53:54      touched on :(677.0, 165.99999999999997)
+bp 19:53:54      pressed :view :Mata Pencaharian
+td 19:53:54      touched on :(686.0, 168.99999999999997)
+bp 19:53:54      pressed :view :Mata Pencaharian
+td 19:53:55      touched on :(844.0, 165.99999999999997)
+bp 19:53:55      pressed :view :Pemeluk Agama
+td 19:53:55      touched on :(1140.0, 157.99999999999997)
+bp 19:53:55      pressed :view :Struktur Umur
+.. 19:53:59      .
+.. 19:54:09      .
+td 19:54:09      touched on :(786.0, 466.0)
+td 19:54:09      touched on :(803.0, 408.0)
+td 19:54:09      touched on :(781.0, 467.00000000000006)
+td 19:54:09      touched on :(797.0, 407.00000000000006)
+td 19:54:10      touched on :(783.0, 449.99999999999994)
+td 19:54:10      touched on :(828.0, 369.99999999999994)
+td 19:54:10      touched on :(791.0, 459.00000000000006)
+td 19:54:10      touched on :(771.0, 434.00000000000006)
+td 19:54:11      touched on :(793.0, 438.0)
+.. 19:54:19      .
+td 19:54:21      touched on :(1072.0, 287.0)
+tu 19:54:22      -> up after 0.975 s on :(1075.0, 275.0)
+td 19:54:22      touched on :(778.0, 858.0000000000001)
+tu 19:54:23      -> up after 0.215 s on :(822.0, 849.9999999999999)
+td 19:54:23      touched on :(883.0, 826.0)
+td 19:54:23      touched on :(1026.0, 701.0000000000001)
+td 19:54:23      touched on :(1079.0, 609.0)
+td 19:54:23      touched on :(1070.0, 498.00000000000006)
+td 19:54:24      touched on :(727.0, 825.0)
+tu 19:54:26      -> up after 1.831 s on :(961.0, 793.0)
+td 19:54:26      touched on :(1131.0, 504.99999999999994)
+tu 19:54:26      -> up after 0.496 s on :(1118.0, 298.0)
+td 19:54:28      touched on :(904.0, 433.0)
+.. 19:54:29      .
+tu 19:54:29      -> up after 0.369 s on :(939.0, 259.99999999999994)
+td 19:54:29      touched on :(914.0, 363.00000000000006)
+td 19:54:30      touched on :(1002.0, 171.99999999999994)
+bp 19:54:30      pressed :view :Pendidikan
+.. 19:54:39      .
+td 19:54:48      touched on :(440.0, 281.0)
+.. 19:54:49      .
+tu 19:54:49      -> up after 0.496 s on :(438.0, 281.99999999999994)
+td 19:54:50      touched on :(1115.0, 347.0)
+tu 19:54:52      -> up after 2.77 s on :(1116.0, 346.00000000000006)
+td 19:54:53      touched on :(472.0, 278.99999999999994)
+tu 19:54:55      -> up after 1.523 s on :(472.0, 277.00000000000006)
+td 19:54:55      touched on :(1116.0, 366.0)
+tu 19:54:56      -> up after 0.593 s on :(1115.0, 366.0)
+td 19:54:56      touched on :(560.0, 211.00000000000006)
+td 19:54:57      touched on :(1065.0, 299.00000000000006)
+tu 19:54:57      -> up after 0.451 s on :(1065.0, 299.00000000000006)
+.. 19:54:59      .
+td 19:55:01      touched on :(1065.0, 338.00000000000006)
+tu 19:55:03      -> up after 1.383 s on :(1067.0, 319.0)
+td 19:55:04      touched on :(536.0, 262.0)
+tu 19:55:07      -> up after 3.681 s on :(543.0, 248.99999999999994)
+td 19:55:08      touched on :(1083.0, 503.00000000000006)
+.. 19:55:09      .
+tu 19:55:10      -> up after 1.605 s on :(1083.0, 493.0)
+.. 19:55:19      .
+.. 19:55:28      .
+td 19:55:31      touched on :(828.0, 198.00000000000003)
+bp 19:55:31      pressed :view :Pemeluk Agama
+.. 19:55:38      .
+td 19:55:41      touched on :(726.0, 140.99999999999997)
+bp 19:55:41      pressed :view :Mata Pencaharian
+td 19:55:41      touched on :(826.0, 146.99999999999994)
+bp 19:55:41      pressed :view :Pemeluk Agama
+.. 19:55:49      .
+.. 19:55:59      .
+.. 19:56:09      .
+td 19:56:17      touched on :(861.0, 336.0)
+td 19:56:18      touched on :(856.0, 375.0)
+td 19:56:18      touched on :(926.0, 294.00000000000006)
+td 19:56:19      touched on :(948.0, 313.00000000000006)
+.. 19:56:19      .
+td 19:56:20      touched on :(658.0, 49.00000000000003)
+bp 19:56:20      pressed :view :Mata Pencaharian
+.. 19:56:29      .
+.. 19:56:39      .
+.. 19:56:49      .
+.. 19:56:59      .
+td 19:57:00      touched on :(1158.0, 173.00000000000003)
+bp 19:57:00      pressed :view :Struktur Umur
+td 19:57:03      touched on :(1024.0, 187.99999999999997)
+bp 19:57:03      pressed :view :Pendidikan
+td 19:57:04      touched on :(712.0, 341.0)
+tu 19:57:06      -> up after 1.228 s on :(968.0, 229.99999999999994)
+td 19:57:06      touched on :(1057.0, 261.00000000000006)
+tu 19:57:06      -> up after 0.23 s on :(721.0, 391.99999999999994)
+td 19:57:06      touched on :(646.0, 389.0)
+tu 19:57:06      -> up after 0.346 s on :(976.0, 237.0)
+td 19:57:07      touched on :(932.0, 316.00000000000006)
+td 19:57:07      touched on :(1436.0, 1039.0)
+bp 19:57:08      pressed :Menu Utama
+
+sc 19:57:08 -- :Menu Utama --
+.. 19:57:09      .
+td 19:57:09      touched on :(1429.0, 554.0)
+tu 19:57:09      -> up after 0.453 s on :(1439.0, 549.0)
+td 19:57:09      touched on :(1486.0, 528.0)
+tu 19:57:10      -> up after 0.742 s on :(1388.0, 513.0)
+td 19:57:10      touched on :(1379.0, 512.0)
+td 19:57:10      touched on :(1301.0, 536.0)
+td 19:57:10      touched on :(1170.0, 537.0)
+td 19:57:11      touched on :(1144.0, 547.0)
+td 19:57:11      touched on :(1110.0, 540.0)
+td 19:57:11      touched on :(967.0, 521.0)
+td 19:57:11      touched on :(964.0, 522.0)
+tu 19:57:11      -> up after 0.211 s on :(800.0, 496.99999999999994)
+td 19:57:12      touched on :(1159.0, 350.0)
+bp 19:57:12      pressed :Sadang Serang Interaktif
+td 19:57:13      touched on :(1368.0, 728.0)
+bp 19:57:13      pressed :Data Kependudukan
+
+sc 19:57:13 -- :Data Kependudukan --
+td 19:57:14      touched on :(1015.0000000000001, 135.0)
+bp 19:57:14      pressed :view :Pendidikan
+.. 19:57:19      .
+td 19:57:25      touched on :(802.0, 767.0000000000001)
+td 19:57:25      touched on :(901.0, 664.0)
+td 19:57:25      touched on :(1000.0000000000001, 467.00000000000006)
+tu 19:57:26      -> up after 0.718 s on :(1006.0, 468.0)
+td 19:57:27      touched on :(1068.0, 303.99999999999994)
+tu 19:57:27      -> up after 0.52 s on :(1069.0, 303.99999999999994)
+.. 19:57:29      .
+td 19:57:35      touched on :(439.0, 782.0)
+td 19:57:35      touched on :(491.99999999999994, 776.0)
+.. 19:57:39      .
+td 19:57:44      touched on :(830.0, 783.9999999999999)
+tu 19:57:44      -> up after 0.276 s on :(835.0, 780.0)
+td 19:57:44      touched on :(878.0, 753.0)
+tu 19:57:45      -> up after 0.538 s on :(885.0, 749.0)
+td 19:57:45      touched on :(1074.0, 648.9999999999999)
+td 19:57:46      touched on :(1061.0, 666.0)
+tu 19:57:46      -> up after 0.586 s on :(1068.0, 663.0)
+td 19:57:47      touched on :(1123.0, 676.0000000000001)
+tu 19:57:48      -> up after 0.789 s on :(1123.0, 673.0000000000001)
+.. 19:57:49      .
+td 19:57:55      touched on :(944.0, 683.0)
+td 19:57:55      touched on :(858.0, 744.0)
+td 19:57:55      touched on :(797.0, 714.9999999999999)
+tu 19:57:56      -> up after 0.651 s on :(743.0, 601.9999999999999)
+td 19:57:56      touched on :(783.0, 619.0)
+tu 19:57:56      -> up after 0.203 s on :(783.0, 619.0)
+td 19:57:57      touched on :(779.0, 522.0)
+td 19:57:57      touched on :(771.0, 504.99999999999994)
+tu 19:57:58      -> up after 0.721 s on :(807.0, 488.99999999999994)
+.. 19:57:59      .
+
+as 19:58:35 ---- APP STARTED ---
+
+sc 19:58:35 -- :Menu Utama --
+.. 19:58:45      .
+td 19:58:46      touched on :(1560.0, 377.0)
+bp 19:58:46      pressed :Rumah Kita
+.. 19:58:55      .
+td 19:58:59      touched on :(1234.0, 752.0)
+bp 19:58:59      pressed :Info Tematik
+
+sc 19:58:59 -- :Info Tematik --
+td 19:59:01      touched on :(1574.0, 1078.0)
+bp 19:59:01      pressed :Menu Utama
+
+sc 19:59:01 -- :Menu Utama --
+td 19:59:02      touched on :(1603.0, 377.0)
+bp 19:59:02      pressed :Rumah Kita
+.. 19:59:05      .
+td 19:59:12      touched on :(1268.0, 687.0)
+bp 19:59:12      pressed :Info Tematik
+
+sc 19:59:12 -- :Info Tematik --
+.. 19:59:15      .
+td 19:59:17      touched on :(1596.0, 1049.0)
+bp 19:59:17      pressed :Menu Utama
+
+sc 19:59:17 -- :Menu Utama --
+td 19:59:19      touched on :(1624.0, 352.0)
+bp 19:59:19      pressed :Rumah Kita
+td 19:59:22      touched on :(1191.0, 356.0)
+td 19:59:22      touched on :(1185.0, 342.0)
+bp 19:59:22      pressed :Sadang Serang Interaktif
+.. 19:59:25      .
+td 19:59:26      touched on :(1606.0, 358.99999999999994)
+td 19:59:26      touched on :(1602.0, 380.0)
+bp 19:59:27      pressed :Rumah Kita
+.. 19:59:35      .
+.. 19:59:45      .
+.. 19:59:55      .
+.. 20:00:05      .
+td 20:00:09      touched on :(766.0, 735.0)
+td 20:00:12      touched on :(1616.0, 352.0)
+bp 20:00:12      pressed :Rumah Kita
+.. 20:00:15      .
+.. 20:00:25      .
+td 20:00:33      touched on :(1216.0, 736.0)
+bp 20:00:33      pressed :Info Tematik
+
+sc 20:00:33 -- :Info Tematik --
+.. 20:00:35      .
+td 20:00:43      touched on :(1587.0, 1063.0)
+bp 20:00:43      pressed :Menu Utama
+
+sc 20:00:43 -- :Menu Utama --
+td 20:00:43      touched on :(1648.0, 298.0)
+bp 20:00:43      pressed :Rumah Kita
+.. 20:00:45      .
+.. 20:00:55      .
+.. 20:01:05      .
+td 20:01:09      touched on :(1190.0, 736.9999999999999)
+bp 20:01:09      pressed :Info Tematik
+
+sc 20:01:09 -- :Info Tematik --
+.. 20:01:15      .
+.. 20:01:25      .
+.. 20:01:35      .
+.. 20:01:45      .
+td 20:01:46      touched on :(1624.0, 1065.0)
+td 20:01:46      touched on :(1595.0, 1008.0)
+bp 20:01:46      pressed :Menu Utama
+
+sc 20:01:46 -- :Menu Utama --
+bp 20:01:46      pressed :Menu Utama
+td 20:01:48      touched on :(1605.0, 353.0)
+bp 20:01:48      pressed :Rumah Kita
+.. 20:01:55      .
+td 20:01:55      touched on :(1617.0, 746.0)
+bp 20:01:55      pressed :Info Perkembangan Rumah
+
+sc 20:01:55 -- :Info Perkembangan Rumah --
+td 20:02:02      touched on :(1595.0, 1060.0)
+bp 20:02:02      pressed :Menu Utama
+
+sc 20:02:02 -- :Menu Utama --
+td 20:02:02      touched on :(1640.0, 356.0)
+bp 20:02:03      pressed :Rumah Kita
+.. 20:02:05      .
+td 20:02:13      touched on :(581.0, 788.0)
+.. 20:02:15      .
+.. 20:02:25      .
+td 20:02:30      touched on :(1570.0, 331.0)
+bp 20:02:30      pressed :Rumah Kita
+td 20:02:34      touched on :(1571.0, 328.99999999999994)
+.. 20:02:35      .
+.. 20:02:45      .
+.. 20:02:55      .
+td 20:03:00      touched on :(1617.0, 380.99999999999994)
+bp 20:03:00      pressed :Rumah Kita
+td 20:03:02      touched on :(1171.0, 730.0)
+bp 20:03:02      pressed :Info Tematik
+
+sc 20:03:02 -- :Info Tematik --
+.. 20:03:05      .
+.. 20:03:15      .
+td 20:03:23      touched on :(1643.0, 1075.0)
+bp 20:03:23      pressed :Menu Utama
+
+sc 20:03:23 -- :Menu Utama --
+.. 20:03:25      .
+td 20:03:29      touched on :(1633.0, 334.0)
+bp 20:03:29      pressed :Rumah Kita
+.. 20:03:35      .
+.. 20:03:45      .
+.. 20:03:55      .
+.. 20:04:05      .
+.. 20:04:15      .
+.. 20:04:25      .
+
+as 20:04:41 ---- APP STARTED ---
+
+sc 20:04:41 -- :Menu Utama --
+td 20:04:50      touched on :(1585.0, 328.99999999999994)
+bp 20:04:50      pressed :Rumah Kita
+td 20:04:50      touched on :(1630.0, 723.0000000000001)
+bp 20:04:50      pressed :Info Perkembangan Rumah
+
+sc 20:04:51 -- :Info Perkembangan Rumah --
+.. 20:04:51      .
+td 20:04:53      touched on :(1590.0, 1033.0)
+bp 20:04:53      pressed :Menu Utama
+
+sc 20:04:53 -- :Menu Utama --
+td 20:04:54      touched on :(1595.0, 378.0)
+bp 20:04:54      pressed :Rumah Kita
+.. 20:05:01      .
+.. 20:05:11      .
+
+as 20:05:37 ---- APP STARTED ---
+
+sc 20:05:38 -- :Menu Utama --
+td 20:05:46      touched on :(1594.0, 338.00000000000006)
+bp 20:05:46      pressed :Rumah Kita
+td 20:05:47      touched on :(764.0, 792.0000000000001)
+.. 20:05:47      .
+td 20:05:50      touched on :(1185.0, 353.0)
+bp 20:05:50      pressed :Sadang Serang Interaktif
+td 20:05:52      touched on :(1409.0, 761.9999999999999)
+bp 20:05:52      pressed :Data Kependudukan
+
+sc 20:05:52 -- :Data Kependudukan --
+td 20:05:55      touched on :(142.0, 620.0)
+td 20:05:56      touched on :(1426.0, 1067.0)
+bp 20:05:56      pressed :Menu Utama
+
+sc 20:05:56 -- :Menu Utama --
+.. 20:05:57      .
+.. 20:06:07      .
+.. 20:06:17      .
+.. 20:06:27      .
+.. 20:06:37      .
+.. 20:06:47      .
+
+as 20:06:58 ---- APP STARTED ---
+
+sc 20:06:58 -- :Menu Utama --
+td 20:07:06      touched on :(1616.0, 374.00000000000006)
+bp 20:07:06      pressed :Rumah Kita
+td 20:07:06      touched on :(1659.0, 745.0000000000001)
+bp 20:07:06      pressed :Info Perkembangan Rumah
+
+sc 20:07:06 -- :Info Perkembangan Rumah --
+.. 20:07:08      .
+td 20:07:09      touched on :(1530.0, 824.0)
+bp 20:07:09      pressed :open album :Album 4
+.. 20:07:18      .
+.. 20:07:28      .
+.. 20:07:38      .
+.. 20:07:48      .
+.. 20:07:58      .
+.. 20:08:08      .
+
+sc 20:08:08 -- :Menu Utama --
+.. 20:08:18      .
+.. 20:08:28      .
+.. 20:08:38      .
+.. 20:08:48      .
+td 20:08:48      touched on :(389.0, 510.0)
+tu 20:08:49      -> up after 0.476 s on :(446.0, 485.99999999999994)
+td 20:08:52      touched on :(914.0, 460.0)
+td 20:08:52      touched on :(923.0, 482.99999999999994)
+td 20:08:52      touched on :(939.0, 477.99999999999994)
+td 20:08:53      touched on :(998.0, 456.00000000000006)
+td 20:08:53      touched on :(1114.0, 455.0)
+.. 20:08:58      .
+td 20:09:03      touched on :(386.0, 490.0)
+tu 20:09:03      -> up after 0.494 s on :(502.0, 470.00000000000006)
+td 20:09:04      touched on :(462.0, 482.99999999999994)
+td 20:09:04      touched on :(460.0, 482.99999999999994)
+tu 20:09:04      -> up after 0.269 s on :(460.0, 482.99999999999994)
+td 20:09:04      touched on :(440.0, 488.0)
+td 20:09:05      touched on :(444.0, 485.0)
+td 20:09:05      touched on :(439.0, 485.99999999999994)
+td 20:09:05      touched on :(436.0, 487.0)
+td 20:09:05      touched on :(437.0, 484.00000000000006)
+td 20:09:05      touched on :(441.0, 481.00000000000006)
+td 20:09:05      touched on :(439.0, 482.99999999999994)
+td 20:09:06      touched on :(436.0, 481.00000000000006)
+td 20:09:06      touched on :(436.0, 484.00000000000006)
+tu 20:09:06      -> up after 0.283 s on :(435.0, 484.00000000000006)
+td 20:09:06      touched on :(390.0, 504.99999999999994)
+tu 20:09:07      -> up after 0.683 s on :(459.0, 506.00000000000006)
+.. 20:09:08      .
+td 20:09:08      touched on :(1042.0, 566.0000000000001)
+tu 20:09:08      -> up after 0.69 s on :(1013.0, 560.9999999999999)
+.. 20:09:18      .
+.. 20:09:28      .
+.. 20:09:38      .
+.. 20:09:48      .
+.. 20:09:58      .
+.. 20:10:08      .
+
+as 20:10:17 ---- APP STARTED ---
+
+sc 20:10:17 -- :Menu Utama --
+td 20:10:24      touched on :(922.0, 247.00000000000003)
+bp 20:10:24      pressed :Info Ngabandungan
+bp 20:10:24      pressed :close pop up
+
+sc 20:10:24 -- :Info Ngabandungan --
+td 20:10:26      touched on :(1434.0, 1046.0)
+bp 20:10:26      pressed :Menu Utama
+
+sc 20:10:26 -- :Menu Utama --
+.. 20:10:26      .
+.. 20:10:36      .
+.. 20:10:46      .
+.. 20:10:56      .
+td 20:10:57      touched on :(1181.0, 347.99999999999994)
+bp 20:10:57      pressed :Sadang Serang Interaktif
+td 20:11:00      touched on :(964.0, 742.0000000000001)
+bp 20:11:00      pressed :Peta Interaktif - Sadang Serang
+
+sc 20:11:00 -- :Peta Interaktif - Sadang Serang --
+.. 20:11:07      .
+td 20:11:07      touched on :(921.0, 220.99999999999997)
+td 20:11:07      touched on :(776.0, 192.00000000000003)
+bp 20:11:07      pressed :zoom in to :1
+td 20:11:08      touched on :(926.0, 179.0)
+bp 20:11:08      pressed :zoom out to :0
+td 20:11:09      touched on :(910.0, 198.99999999999997)
+td 20:11:10      touched on :(773.0, 187.99999999999997)
+bp 20:11:10      pressed :zoom in to :1
+td 20:11:11      touched on :(916.0, 215.0)
+bp 20:11:11      pressed :zoom out to :0
+td 20:11:14      touched on :(1767.0, 215.0)
+tu 20:11:14      -> up after 0.403 s on :(523.0, 195.00000000000003)
+td 20:11:14      touched on :(291.0, 193.99999999999994)
+bp 20:11:14      pressed :view :air bersih
+td 20:11:14      touched on :(33.0, 186.00000000000006)
+td 20:11:16      touched on :(174.0, 195.00000000000003)
+bp 20:11:16      pressed :view :jalan
+.. 20:11:16      .
+td 20:11:17      touched on :(219.0, 195.00000000000003)
+bp 20:11:17      pressed :close :jalan
+td 20:11:19      touched on :(170.0, 371.00000000000006)
+td 20:11:19      touched on :(175.0, 275.0)
+td 20:11:20      touched on :(437.0, 364.99999999999994)
+td 20:11:20      touched on :(443.0, 291.00000000000006)
+td 20:11:20      touched on :(461.0, 350.99999999999994)
+.. 20:11:27      .
+td 20:11:35      touched on :(183.0, 167.00000000000006)
+bp 20:11:35      pressed :view :jalan
+.. 20:11:37      .
+td 20:11:37      touched on :(607.0, 212.0)
+tu 20:11:37      -> up after 0.217 s on :(607.0, 212.0)
+bp 20:11:37      pressed :view :sarana
+td 20:11:38      touched on :(653.0, 168.0)
+bp 20:11:38      pressed :close :sarana
+td 20:11:39      touched on :(512.0, 176.99999999999997)
+bp 20:11:39      pressed :view :gorong-gorong
+.. 20:11:47      .
+.. 20:11:57      .
+.. 20:12:07      .
+.. 20:12:17      .
+.. 20:12:27      .
+td 20:12:34      touched on :(158.0, 175.00000000000006)
+bp 20:12:34      pressed :close :jalan
+td 20:12:35      touched on :(334.0, 181.00000000000003)
+bp 20:12:35      pressed :close :air bersih
+td 20:12:35      touched on :(441.0, 179.0)
+tu 20:12:36      -> up after 0.512 s on :(441.0, 179.0)
+bp 20:12:36      pressed :close :gorong-gorong
+.. 20:12:37      .
+td 20:12:37      touched on :(447.0, 178.00000000000006)
+bp 20:12:37      pressed :view :gorong-gorong
+td 20:12:37      touched on :(446.0, 173.00000000000003)
+bp 20:12:38      pressed :close :gorong-gorong
+td 20:12:39      touched on :(1429.0, 1064.0)
+bp 20:12:39      pressed :Menu Utama
+
+sc 20:12:39 -- :Menu Utama --
+.. 20:12:47      .
+.. 20:12:57      .
+td 20:12:59      touched on :(1187.0, 562.0)
+.. 20:13:07      .
+td 20:13:14      touched on :(1570.0, 321.00000000000006)
+bp 20:13:14      pressed :Rumah Kita
+.. 20:13:17      .
+.. 20:13:26      .
+td 20:13:27      touched on :(715.0, 190.0)
+
+as 20:14:29 ---- APP STARTED ---
+
+sc 20:14:29 -- :Menu Utama --
+.. 20:14:39      .
+
+as 20:15:37 ---- APP STARTED ---
+
+sc 20:15:37 -- :Menu Utama --
+td 20:15:45      touched on :(1586.0, 357.00000000000006)
+bp 20:15:45      pressed :Rumah Kita
+.. 20:15:46      .
+.. 20:15:56      .
+.. 20:16:06      .
+.. 20:16:16      .
+.. 20:16:26      .
+.. 20:16:36      .
+td 20:16:46      touched on :(1566.0, 360.00000000000006)
+bp 20:16:46      pressed :Rumah Kita
+.. 20:16:46      .
+td 20:16:51      touched on :(1395.0, 390.00000000000006)
+td 20:16:53      touched on :(1590.0, 353.0)
+bp 20:16:53      pressed :Rumah Kita
+.. 20:16:56      .
+.. 20:17:06      .
+.. 20:17:16      .
+.. 20:17:26      .
+.. 20:17:36      .
+td 20:17:45      touched on :(1175.0, 741.0)
+bp 20:17:45      pressed :Info Tematik
+
+sc 20:17:45 -- :Info Tematik --
+.. 20:17:46      .
+td 20:17:48      touched on :(1481.0, 1055.0)
+bp 20:17:48      pressed :Menu Utama
+
+sc 20:17:48 -- :Menu Utama --
+td 20:17:49      touched on :(1603.0, 352.0)
+bp 20:17:49      pressed :Rumah Kita
+td 20:17:50      touched on :(1610.0, 706.0)
+bp 20:17:50      pressed :Info Perkembangan Rumah
+
+sc 20:17:50 -- :Info Perkembangan Rumah --
+td 20:17:52      touched on :(1473.0, 1077.0)
+bp 20:17:52      pressed :Menu Utama
+
+sc 20:17:52 -- :Menu Utama --
+td 20:17:55      touched on :(1558.0, 357.00000000000006)
+bp 20:17:55      pressed :Rumah Kita
+.. 20:17:56      .
+td 20:18:06      touched on :(1205.0, 734.0)
+bp 20:18:06      pressed :Info Tematik
+
+sc 20:18:06 -- :Info Tematik --
+.. 20:18:06      .
+.. 20:18:16      .
+.. 20:18:26      .
+.. 20:18:36      .
+.. 20:18:46      .
+.. 20:18:56      .
+
+sc 20:18:56 -- :Menu Utama --
+td 20:18:59      touched on :(1587.0, 320.0)
+bp 20:18:59      pressed :Rumah Kita
+.. 20:19:06      .
+.. 20:19:16      .
+.. 20:19:26      .
+.. 20:19:36      .
+.. 20:19:46      .
+.. 20:19:56      .
+.. 20:20:06      .
+.. 20:20:16      .
+.. 20:20:26      .
+.. 20:20:36      .
+.. 20:20:46      .
+.. 20:20:56      .
+.. 20:21:06      .
+.. 20:21:16      .
+.. 20:21:26      .
+.. 20:21:36      .
+.. 20:21:46      .
+.. 20:21:56      .
+.. 20:22:06      .
+.. 20:22:16      .
+.. 20:22:26      .
+.. 20:22:36      .
+.. 20:22:46      .
+.. 20:22:56      .
+.. 20:23:06      .
+.. 20:23:16      .
+.. 20:23:26      .
+.. 20:23:36      .
+.. 20:23:46      .
+.. 20:23:56      .
+.. 20:24:06      .
+.. 20:24:16      .
+.. 20:24:26      .
+.. 20:24:36      .
+.. 20:24:46      .
+.. 20:24:56      .
+.. 20:25:06      .
+.. 20:25:16      .
+.. 20:25:26      .
+.. 20:25:36      .
+.. 20:25:46      .
+.. 20:25:56      .
+.. 20:26:06      .
+.. 20:26:16      .
+.. 20:26:26      .
+.. 20:26:36      .
+.. 20:26:47      .
+.. 20:26:57      .
+.. 20:27:07      .
+.. 20:27:17      .
+.. 20:27:27      .
+.. 20:27:37      .
+.. 20:27:47      .
+.. 20:27:57      .
+.. 20:28:07      .
+.. 20:28:17      .
+.. 20:28:27      .
+.. 20:28:37      .
+.. 20:28:47      .
+.. 20:28:57      .
+.. 20:29:07      .
+.. 20:29:17      .
+.. 20:29:27      .
+.. 20:29:37      .
+.. 20:29:47      .
+.. 20:29:57      .
+.. 20:30:07      .
+.. 20:30:17      .
+.. 20:30:27      .
+.. 20:30:37      .
+.. 20:30:47      .
+.. 20:30:57      .
+.. 20:31:07      .
+.. 20:31:17      .
+.. 20:31:27      .
+.. 20:31:37      .
+.. 20:31:47      .
+.. 20:31:57      .
+.. 20:32:07      .
+.. 20:32:17      .
+.. 20:32:27      .
+.. 20:32:37      .
+.. 20:32:47      .
+.. 20:32:57      .
+.. 20:33:07      .
+.. 20:33:17      .
+.. 20:33:27      .
+.. 20:33:37      .
+.. 20:33:47      .
+.. 20:33:57      .
+.. 20:34:07      .
+.. 20:34:17      .
+.. 20:34:27      .
+.. 20:34:37      .
+.. 20:34:47      .
+.. 20:34:57      .
+.. 20:35:07      .
+.. 20:35:17      .
+.. 20:35:27      .
+.. 20:35:37      .
+.. 20:35:47      .
+.. 20:35:57      .
+.. 20:36:07      .
+.. 20:36:17      .
+.. 20:36:27      .
+.. 20:36:37      .
+.. 20:36:47      .
+.. 20:36:57      .
+.. 20:37:07      .
+.. 20:37:17      .
+.. 20:37:27      .
+.. 20:37:37      .
+.. 20:37:47      .
+.. 20:37:57      .
+.. 20:38:08      .
+.. 20:38:17      .
+.. 20:38:27      .
+.. 20:38:37      .
+.. 20:38:47      .
+.. 20:38:57      .
+.. 20:39:07      .
+.. 20:39:17      .
+.. 20:39:27      .
+.. 20:39:37      .
+.. 20:39:47      .
+.. 20:39:57      .
+.. 20:40:07      .
+.. 20:40:17      .
+.. 20:40:27      .
+.. 20:40:37      .
+.. 20:40:47      .
+.. 20:40:57      .
+.. 20:41:07      .
+.. 20:41:17      .
+.. 20:41:27      .
+.. 20:41:37      .
+.. 20:41:47      .
+.. 20:41:57      .
+.. 20:42:07      .
+.. 20:42:17      .
+.. 20:42:27      .
+.. 20:42:37      .
+.. 20:42:47      .
+.. 20:42:57      .
+.. 20:43:07      .
+.. 20:43:17      .
+.. 20:43:27      .
+.. 20:43:37      .
+.. 20:43:47      .
+.. 20:43:57      .
+.. 20:44:07      .
+.. 20:44:17      .
+.. 20:44:27      .
+.. 20:44:37      .
+.. 20:44:47      .
+.. 20:44:57      .
+.. 20:45:07      .
+.. 20:45:17      .
+.. 20:45:27      .
+.. 20:45:37      .
+.. 20:45:47      .
+.. 20:45:57      .
+.. 20:46:07      .
+.. 20:46:17      .
+.. 20:46:27      .
+.. 20:46:37      .
+.. 20:46:47      .
+.. 20:46:57      .
+.. 20:47:07      .
+.. 20:47:17      .
+.. 20:47:27      .
+.. 20:47:37      .
+.. 20:47:47      .
+.. 20:47:57      .
+.. 20:48:07      .
+.. 20:48:17      .
+.. 20:48:27      .
+.. 20:48:37      .
+.. 20:48:47      .
+.. 20:48:57      .
+.. 20:49:07      .
+.. 20:49:17      .
+.. 20:49:27      .
+.. 20:49:37      .
+.. 20:49:47      .
+.. 20:49:57      .
+.. 20:50:07      .
+.. 20:50:17      .
+.. 20:50:27      .
+.. 20:50:37      .
+.. 20:50:47      .
+.. 20:50:57      .
+.. 20:51:07      .
+.. 20:51:17      .
+.. 20:51:27      .
+.. 20:51:37      .
+.. 20:51:47      .
+.. 20:51:57      .
+.. 20:52:07      .
+.. 20:52:17      .
+.. 20:52:27      .
+.. 20:52:37      .
+.. 20:52:47      .
+.. 20:52:57      .
+.. 20:53:07      .
+.. 20:53:17      .
+.. 20:53:27      .
+.. 20:53:37      .
+.. 20:53:47      .
+.. 20:53:57      .
+.. 20:54:07      .
+.. 20:54:17      .
+.. 20:54:27      .
+.. 20:54:37      .
+.. 20:54:47      .
+.. 20:54:57      .
+.. 20:55:07      .
+.. 20:55:17      .
+.. 20:55:27      .
+.. 20:55:37      .
+.. 20:55:47      .
+.. 20:55:57      .
+.. 20:56:07      .
+.. 20:56:17      .
+.. 20:56:27      .
+.. 20:56:37      .
+.. 20:56:47      .
+.. 20:56:57      .
+.. 20:57:07      .
+.. 20:57:17      .
+.. 20:57:27      .
+.. 20:57:37      .
+.. 20:57:47      .
+.. 20:57:57      .
+.. 20:58:07      .
+.. 20:58:17      .
+.. 20:58:27      .
+.. 20:58:37      .
+.. 20:58:47      .
+.. 20:58:57      .
+.. 20:59:07      .
+.. 20:59:17      .
+.. 20:59:27      .
+.. 20:59:37      .
+.. 20:59:47      .
+.. 20:59:57      .
+.. 21:00:07      .
+.. 21:00:17      .
+.. 21:00:27      .
+.. 21:00:37      .
+.. 21:00:47      .
+.. 21:00:57      .
+.. 21:01:07      .
+.. 21:01:17      .
+.. 21:01:27      .
+.. 21:01:37      .
+.. 21:01:47      .
+.. 21:01:57      .
+.. 21:02:07      .
+.. 21:02:17      .
+.. 21:02:27      .
+.. 21:02:37      .
+.. 21:02:47      .
+.. 21:02:57      .
+.. 21:03:07      .
+.. 21:03:17      .
+.. 21:03:27      .
+.. 21:03:37      .
+.. 21:03:47      .
+.. 21:03:57      .
+.. 21:04:07      .
+.. 21:04:17      .
+.. 21:04:27      .
+.. 21:04:37      .
+.. 21:04:47      .
+.. 21:04:57      .
+.. 21:05:07      .
+.. 21:05:17      .
+.. 21:05:27      .
+.. 21:05:37      .
+.. 21:05:47      .
+.. 21:05:57      .
+.. 21:06:07      .
+.. 21:06:17      .
+.. 21:06:27      .
+.. 21:06:37      .
+.. 21:06:47      .
+.. 21:06:57      .
+.. 21:07:07      .
+.. 21:07:17      .
+.. 21:07:27      .
+.. 21:07:37      .
+td 21:07:43      touched on :(224.0, 986.0)
+td 21:07:44      touched on :(1381.0, 720.0000000000001)
+
+as 21:13:31 ---- APP STARTED ---
+
+sc 21:13:32 -- :Menu Utama --
+.. 21:13:35      .
+td 21:13:43      touched on :(749.0, 346.00000000000006)
+bp 21:13:43      pressed :Info Ngabandungan
+bp 21:13:43      pressed :close pop up
+
+sc 21:13:48 -- :Info Ngabandungan --
+.. 21:13:48      .
+td 21:13:48      touched on :(763.0, 364.99999999999994)
+td 21:13:48      touched on :(760.0, 342.0)
+td 21:13:52      touched on :(1513.0, 1068.0)
+bp 21:13:52      pressed :Menu Utama
+
+sc 21:13:52 -- :Menu Utama --
+td 21:13:56      touched on :(765.0, 344.0)
+bp 21:13:56      pressed :Info Ngabandungan
+bp 21:13:56      pressed :close pop up
+
+sc 21:13:56 -- :Info Ngabandungan --
+.. 21:13:58      .
+td 21:14:01      touched on :(1147.0, 317.0)
+tu 21:14:01      -> up after 0.749 s on :(1123.0, 912.0)
+td 21:14:02      touched on :(1206.0, 913.0)
+tu 21:14:02      -> up after 0.384 s on :(1189.0, 663.0)
+td 21:14:03      touched on :(1237.0, 874.0)
+tu 21:14:03      -> up after 0.206 s on :(1204.0, 581.0)
+td 21:14:05      touched on :(1471.0, 752.0)
+.. 21:14:08      .
+td 21:14:11      touched on :(1497.0, 1083.0)
+td 21:14:11      touched on :(1465.0, 1070.0)
+tu 21:14:12      -> up after 0.282 s on :(1464.0, 1066.0)
+bp 21:14:12      pressed :Menu Utama
+
+sc 21:14:12 -- :Menu Utama --
+td 21:14:13      touched on :(1157.0, 339.99999999999994)
+bp 21:14:14      pressed :Sadang Serang Interaktif
+td 21:14:15      touched on :(975.0, 706.0)
+bp 21:14:15      pressed :Peta Interaktif - Sadang Serang
+
+sc 21:14:15 -- :Peta Interaktif - Sadang Serang --
+td 21:14:18      touched on :(757.0, 192.00000000000003)
+.. 21:14:18      .
+bp 21:14:18      pressed :zoom in to :1
+td 21:14:19      touched on :(1530.0, 295.0)
+tu 21:14:19      -> up after 0.295 s on :(1194.0, 535.0)
+td 21:14:20      touched on :(1457.0, 358.0)
+tu 21:14:20      -> up after 0.388 s on :(1255.0, 545.0)
+td 21:14:21      touched on :(202.0, 218.99999999999994)
+td 21:14:22      touched on :(186.0, 193.0)
+tu 21:14:22      -> up after 0.259 s on :(187.0, 192.00000000000003)
+bp 21:14:22      pressed :view :jalan
+td 21:14:24      touched on :(469.0, 190.99999999999997)
+tu 21:14:24      -> up after 0.306 s on :(469.0, 190.99999999999997)
+bp 21:14:24      pressed :view :gorong-gorong
+td 21:14:26      touched on :(620.0, 204.0)
+tu 21:14:26      -> up after 0.283 s on :(619.0, 201.99999999999997)
+bp 21:14:26      pressed :view :sarana
+td 21:14:27      touched on :(493.99999999999994, 206.00000000000003)
+bp 21:14:28      pressed :close :gorong-gorong
+.. 21:14:28      .
+td 21:14:28      touched on :(199.0, 184.99999999999997)
+bp 21:14:28      pressed :close :jalan
+td 21:14:30      touched on :(900.0, 186.00000000000006)
+bp 21:14:30      pressed :zoom out to :0
+.. 21:14:38      .
+td 21:14:38      touched on :(471.0, 192.00000000000003)
+bp 21:14:38      pressed :view :gorong-gorong
+td 21:14:40      touched on :(612.0, 193.0)
+bp 21:14:40      pressed :close :sarana
+td 21:14:43      touched on :(775.0, 167.00000000000006)
+bp 21:14:43      pressed :zoom in to :1
+td 21:14:45      touched on :(788.0, 184.99999999999997)
+bp 21:14:45      pressed :zoom in to :2
+td 21:14:47      touched on :(923.0, 193.99999999999994)
+bp 21:14:47      pressed :zoom out to :1
+.. 21:14:48      .
+td 21:14:49      touched on :(1462.0, 482.99999999999994)
+tu 21:14:50      -> up after 0.232 s on :(1385.0, 440.00000000000006)
+td 21:14:54      touched on :(624.0, 209.00000000000003)
+tu 21:14:54      -> up after 0.219 s on :(624.0, 209.00000000000003)
+bp 21:14:54      pressed :view :sarana
+td 21:14:56      touched on :(1271.0, 460.99999999999994)
+.. 21:14:58      .
+td 21:14:59      touched on :(1474.0, 1076.0)
+tu 21:14:59      -> up after 0.304 s on :(1474.0, 1076.0)
+bp 21:14:59      pressed :Menu Utama
+
+sc 21:14:59 -- :Menu Utama --
+td 21:15:04      touched on :(1187.0, 369.0)
+bp 21:15:04      pressed :Sadang Serang Interaktif
+td 21:15:05      touched on :(1418.0, 739.0)
+bp 21:15:05      pressed :Data Kependudukan
+
+sc 21:15:05 -- :Data Kependudukan --
+.. 21:15:08      .
+td 21:15:08      touched on :(846.0, 182.99999999999994)
+tu 21:15:08      -> up after 0.206 s on :(846.0, 182.99999999999994)
+bp 21:15:08      pressed :view :Pemeluk Agama
+td 21:15:11      touched on :(1000.0000000000001, 184.00000000000003)
+tu 21:15:11      -> up after 0.245 s on :(1000.0000000000001, 182.99999999999994)
+bp 21:15:11      pressed :view :Pendidikan
+td 21:15:13      touched on :(1169.0, 190.99999999999997)
+tu 21:15:13      -> up after 0.461 s on :(1169.0, 190.0)
+bp 21:15:13      pressed :view :Struktur Umur
+td 21:15:16      touched on :(688.0, 206.00000000000003)
+tu 21:15:16      -> up after 0.206 s on :(688.0, 204.99999999999994)
+td 21:15:17      touched on :(706.0, 176.99999999999997)
+.. 21:15:18      .
+bp 21:15:18      pressed :view :Mata Pencaharian
+td 21:15:21      touched on :(1541.0, 1068.0)
+bp 21:15:21      pressed :Menu Utama
+
+sc 21:15:21 -- :Menu Utama --
+td 21:15:22      touched on :(1601.0, 389.0)
+tu 21:15:23      -> up after 0.325 s on :(1601.0, 389.0)
+bp 21:15:23      pressed :Rumah Kita
+td 21:15:25      touched on :(1220.0, 736.0)
+bp 21:15:25      pressed :Info Tematik
+
+sc 21:15:25 -- :Info Tematik --
+td 21:15:27      touched on :(1085.0, 815.0)
+bp 21:15:27      pressed :open e-book :KampungBerkebun
+.. 21:15:28      .
+td 21:15:29      touched on :(1792.0, 538.0)
+bp 21:15:29      pressed :next page to :1
+td 21:15:30      touched on :(1822.0, 534.0)
+bp 21:15:30      pressed :next page to :2
+td 21:15:31      touched on :(1821.0, 137.00000000000003)
+bp 21:15:31      pressed :zoom in to :1
+td 21:15:32      touched on :(1824.0, 132.0)
+bp 21:15:32      pressed :zoom in to :2
+td 21:15:34      touched on :(1600.0, 539.0)
+tu 21:15:34      -> up after 0.574 s on :(1280.0, 457.0)
+td 21:15:35      touched on :(1211.0, 256.0)
+tu 21:15:35      -> up after 0.691 s on :(1266.0, 731.0)
+td 21:15:36      touched on :(1490.0, 1060.0)
+bp 21:15:36      pressed :Menu Utama
+
+sc 21:15:36 -- :Menu Utama --
+td 21:15:37      touched on :(1628.0, 333.0)
+bp 21:15:38      pressed :Rumah Kita
+.. 21:15:38      .
+td 21:15:39      touched on :(1641.0, 745.0000000000001)
+bp 21:15:39      pressed :Info Perkembangan Rumah
+
+sc 21:15:39 -- :Info Perkembangan Rumah --
+td 21:15:41      touched on :(1148.0, 804.0)
+bp 21:15:42      pressed :open album :Album 3
+td 21:15:45      touched on :(1153.0, 805.0)
+bp 21:15:45      pressed :open photo :DSCN5998.JPG
+td 21:15:46      touched on :(1794.0, 549.0)
+bp 21:15:47      pressed :next photo to :2
+td 21:15:48      touched on :(1837.0, 142.00000000000006)
+bp 21:15:48      pressed :zoom in to :1
+.. 21:15:48      .
+td 21:15:49      touched on :(1668.0, 154.99999999999997)
+td 21:15:49      touched on :(1675.0, 127.99999999999994)
+tu 21:15:50      -> up after 0.201 s on :(1674.0, 126.00000000000003)
+bp 21:15:50      pressed :zoom out to :0
+td 21:15:51      touched on :(1793.0, 891.0)
+bp 21:15:51      pressed :close photo
+td 21:15:55      touched on :(1145.0, 833.0)
+bp 21:15:55      pressed :open photo :DSCN5998.JPG
+td 21:15:58      touched on :(1805.0, 921.0)
+bp 21:15:58      pressed :close photo
+.. 21:15:58      .
+td 21:16:01      touched on :(1499.0, 1058.0)
+bp 21:16:01      pressed :Menu Utama
+
+sc 21:16:01 -- :Menu Utama --
+.. 21:16:08      .
+td 21:16:12      touched on :(1033.0, 1080.0)
+td 21:16:12      touched on :(684.0, 735.0)
+td 21:16:13      touched on :(585.0, 575.0)
