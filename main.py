@@ -1,4 +1,4 @@
-__author__ = 'Chairun R Siregar'
+__author__ = 'Chairun R Siregar & Elian Daiva'
 
 from kivy.core.window import Window
 from kivy.app import App
