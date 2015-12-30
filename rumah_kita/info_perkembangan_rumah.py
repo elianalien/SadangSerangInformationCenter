@@ -1,6 +1,6 @@
 from kivy.clock import Clock
 
-__author__ = 'si ganteng'
+__author__ = 'elian daiva'
 
 import os, sys, os.path
 import math
