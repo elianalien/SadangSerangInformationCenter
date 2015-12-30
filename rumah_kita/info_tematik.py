@@ -1,4 +1,4 @@
-__author__ = 'Siapa Hayoh'
+__author__ = 'Elian Daiva'
 
 import os, sys, os.path
 import math
